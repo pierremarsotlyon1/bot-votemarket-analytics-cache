@@ -64,8 +64,8 @@ jobs:
           contents: |
             ${{ steps.angle.outputs.response }}
       - run: |
-          git config --local user.email "pierre@stakedao.org"
-          git config --local user.name "github-actions[bot]"
+          git config user.email "pierre@stakedao.org"
+          git config user.name "github-actions[bot]"
           git add .
           git commit -m "Add changes"
           git push
