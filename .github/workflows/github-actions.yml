@@ -7,9 +7,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          persist-credentials: true # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
       - name: CRV analytics
         id: crv
@@ -63,9 +63,14 @@ jobs:
           write-mode: overwrite
           contents: |
             ${{ steps.angle.outputs.response }}
-      - run: |
-          git config user.email "pierre@stakedao.org"
-          git config user.name "github-actions[bot]"
+      - name: Commit files
+        run: |
+          git config --local user.email "pierre@stakedao.org"
+          git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Add changes"
-          git push
+          git commit -a -m "Add changes"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: main
