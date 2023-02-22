@@ -9,6 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
+          token: ${{ secrets.TOKEN }}
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
       - name: CRV analytics
         id: crv
