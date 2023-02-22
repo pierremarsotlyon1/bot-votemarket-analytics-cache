@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           persist-credentials: ${{ secrets.TOKEN }} # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
@@ -64,14 +64,10 @@ jobs:
           contents: |
             ${{ steps.angle.outputs.response }}
       - name: Commit files
+        uses: actions/checkout@v3
         run: |
-          echo ${{ secrets.TOKEN }}
-          git config --local user.email "pierre.mmarsot@gmail.com"
+          git config --local user.email "pierre@stakedao.org"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -a -m "Add changes"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.TOKEN }}
-          branch: main
+          git commit -m "Add changes"
+          git push
