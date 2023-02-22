@@ -1,5 +1,6 @@
 name: Votemarket analytics
 on:
+  push:
   schedule:
     - cron: '*/5 * * * *'
 jobs:
@@ -64,6 +65,7 @@ jobs:
             ${{ steps.angle.outputs.response }}
       - name: Commit files
         run: |
+          echo ${{ secrets.TOKEN }}
           git config --local user.email "pierre.mmarsot@gmail.com"
           git config --local user.name "github-actions[bot]"
           git add .
