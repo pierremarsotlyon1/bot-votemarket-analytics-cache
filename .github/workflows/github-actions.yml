@@ -63,8 +63,7 @@ jobs:
           write-mode: overwrite
           contents: |
             ${{ steps.angle.outputs.response }}
-      - uses: actions/checkout@v3
-        run: |
+      - run: |
           git config --local user.email "pierre@stakedao.org"
           git config --local user.name "github-actions[bot]"
           git add .
