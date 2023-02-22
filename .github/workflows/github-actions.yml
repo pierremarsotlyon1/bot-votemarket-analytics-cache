@@ -1,8 +1,7 @@
 name: Votemarket analytics
 on:
-  push:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
