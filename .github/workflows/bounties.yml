@@ -1,4 +1,4 @@
-name: Votemarket analytics
+name: Votemarket bounties
 on:
   workflow_dispatch:
   schedule:
