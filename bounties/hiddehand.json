@@ -1,23 +1,23 @@
 {
-    "lastUpdate": 1697672922,
+    "lastUpdate": 1697673530,
     "bounties": [
         {
             "proposal": "0x275df57d2b23d53e20322b4bb71bf1dcb21d0a00",
             "proposalHash": "0xb355f196c7ab330d85a3a392623204f81c8f2d668baaeda4e78f87c9f50bef04",
             "title": "WETH-50% AURA-50%",
             "proposalDeadline": 1697673600,
-            "totalValue": 2831.23125,
-            "maxTotalValue": 5662.4625,
+            "totalValue": 2829.7275,
+            "maxTotalValue": 5659.455,
             "voteCount": 148306.05467157476,
-            "valuePerVote": 0.017364885,
-            "maxValuePerVote": 0.038180682638041356,
+            "valuePerVote": 0.017355662,
+            "maxValuePerVote": 0.03816040375707148,
             "bribes": [
                 {
                     "token": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
                     "symbol": "aura",
                     "decimals": 18,
-                    "value": 5662.4625,
-                    "maxValue": 5662.4625,
+                    "value": 5659.455,
+                    "maxValue": 5659.455,
                     "amount": 7500,
                     "maxTokensPerVote": 0.046,
                     "briber": "0x21aed3a7a1c34cd88b8a39dbdae042befbf947ff",
@@ -28,7 +28,7 @@
             ],
             "poolId": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9000200000000000000000274",
             "totalReward": 7500,
-            "apr": 0.10660850295159387,
+            "apr": 0.1065518800472255,
             "totalVotes": 148306.05467157476
         },
         {
@@ -36,18 +36,18 @@
             "proposalHash": "0xa2b574c32fbe12ce1e12ebb850253595ef7087671c213241076b924614822a20",
             "title": "B-80BAL-20WETH auraBAL",
             "proposalDeadline": 1697673600,
-            "totalValue": 3774.975,
-            "maxTotalValue": 7549.95,
+            "totalValue": 3772.97,
+            "maxTotalValue": 7545.94,
             "voteCount": 244375.68207286563,
-            "valuePerVote": 0.015447404818803809,
-            "maxValuePerVote": 0.030894809637607618,
+            "valuePerVote": 0.015439200248796935,
+            "maxValuePerVote": 0.03087840049759387,
             "bribes": [
                 {
                     "token": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
                     "symbol": "aura",
                     "decimals": 18,
-                    "value": 7549.95,
-                    "maxValue": 7549.95,
+                    "value": 7545.94,
+                    "maxValue": 7545.94,
                     "amount": 10000,
                     "maxTokensPerVote": 0.046,
                     "briber": "0x21aed3a7a1c34cd88b8a39dbdae042befbf947ff",
@@ -58,7 +58,7 @@
             ],
             "poolId": "0x3dd0843a028c86e0b760b1a76929d1c5ef93a2dd000200000000000000000249",
             "totalReward": 10000,
-            "apr": 0.0948364876715228,
+            "apr": 0.09478611722992214,
             "totalVotes": 244375.68207286563
         },
         {
@@ -158,9 +158,9 @@
             "proposalDeadline": 1697673600,
             "totalValue": 1550.2284,
             "maxTotalValue": 3100.4568,
-            "voteCount": 21516.70677609419,
-            "valuePerVote": 0.07204667936980062,
-            "maxValuePerVote": 0.14409335873960125,
+            "voteCount": 22440.14157861215,
+            "valuePerVote": 0.06908018359253151,
+            "maxValuePerVote": 0.13816036718506303,
             "bribes": [
                 {
                     "token": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
@@ -178,8 +178,8 @@
             ],
             "poolId": "0x9f9d900462492d4c21e9523ca95a7cd86142f298000200000000000000000462",
             "totalReward": 163.44,
-            "apr": 0.44231727594210524,
-            "totalVotes": 21516.70677609419
+            "apr": 0.42410502323632093,
+            "totalVotes": 22440.14157861215
         },
         {
             "proposal": "0x79ef6103a513951a3b25743db509e267685726b7",
@@ -638,9 +638,9 @@
             "proposalDeadline": 1697673600,
             "totalValue": 2430.0593,
             "maxTotalValue": 4860.1186,
-            "voteCount": 46769.769845874434,
-            "valuePerVote": 0.05195747744280521,
-            "maxValuePerVote": 0.10391495488561042,
+            "voteCount": 47133.87897397581,
+            "valuePerVote": 0.05155614630627572,
+            "maxValuePerVote": 0.10311229261255143,
             "bribes": [
                 {
                     "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -671,8 +671,8 @@
             ],
             "poolId": "0xade4a71bb62bec25154cfc7e6ff49a513b491e81000000000000000000000497",
             "totalReward": 783.085,
-            "apr": 0.3189833325886506,
-            "totalVotes": 46769.769845874434
+            "apr": 0.31651943422979184,
+            "totalVotes": 47133.87897397581
         },
         {
             "proposal": "0xe9b2cb6836be07357bcb8144f398730d5ec268e9",
@@ -681,9 +681,9 @@
             "proposalDeadline": 1697673600,
             "totalValue": 222.225,
             "maxTotalValue": 444.45,
-            "voteCount": 14552.620292955367,
-            "valuePerVote": 0.01527,
-            "maxValuePerVote": 0.03054,
+            "voteCount": 13629.185490437407,
+            "valuePerVote": 0.016304,
+            "maxValuePerVote": 0.032608,
             "bribes": [
                 {
                     "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -701,8 +701,8 @@
             ],
             "poolId": "0x0c659734f1eef9c63b7ebdf78a164cdd745586db000000000000000000000046",
             "totalReward": 444.45,
-            "apr": 0.09374734356552539,
-            "totalVotes": 14552.620292955367
+            "apr": 0.10009539551357732,
+            "totalVotes": 13629.185490437407
         },
         {
             "proposal": "0x1e916950a659da9813ee34479bff04c732e03deb",
