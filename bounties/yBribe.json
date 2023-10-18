@@ -1,5 +1,5 @@
 {
-    "lastUpdate": 1697664836,
+    "lastUpdate": 1697665447,
     "bounties": [
         {
             "gaugeAddress": "0xd8b712d29381748db89c36bca0138d7c75866ddf",
@@ -25,7 +25,7 @@
                     "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
                     "logo": "https://raw.githubusercontent.com/curvefi/curve-assets/b434dafc3c21296dd323915cb1a0d0c9d238643c/images/assets/0x090185f2135308bad17527004364ebcc2d37e5f6.png",
                     "symbol": "SPELL",
-                    "price": 0.00041663,
+                    "price": 0.00041619,
                     "decimals": 18,
                     "claimableAmountUSD": 0
                 }
@@ -39,10 +39,10 @@
                 "hex": "0x0a679b920f5c030a4a250000"
             },
             "totalReward": 1775631,
-            "totalRewardsDollar": 739.78114353,
-            "pricePerVeCRV": 4.0329081455863525e-05,
-            "apr": 0.004919934488149865,
-            "totalVotes": 18343615.88491185
+            "totalRewardsDollar": 738.99986589,
+            "pricePerVeCRV": 4.0286490197815425e-05,
+            "apr": 0.004923447781370365,
+            "totalVotes": 18360466.451007694
         }
     ]
 }
