@@ -1,5 +1,5 @@
 {
-    "lastUpdate": 1697680819,
+    "lastUpdate": 1697682277,
     "bounties": [
         {
             "gaugeAddress": "0x4fc86cd0f9b650280fa783e3116258e0e0496a2c",
@@ -8,7 +8,7 @@
                 "name": "USDC+WETH+INV ",
                 "gaugeWeight": {
                     "type": "BigNumber",
-                    "hex": "0x02a756a745ec6675c1d300"
+                    "hex": "0x02a7566ab2ccd2c6b35000"
                 },
                 "hasNoCrv": false
             },
@@ -40,9 +40,9 @@
             },
             "totalReward": 23,
             "totalRewardsDollar": 23,
-            "pricePerVeCRV": 7.169386097936931e-06,
-            "apr": 0.0008920688876006078,
-            "totalVotes": 3208085.315158731
+            "pricePerVeCRV": 7.169397271888482e-06,
+            "apr": 0.0008944717224375733,
+            "totalVotes": 3208080.9502915475
         }
     ]
 }
