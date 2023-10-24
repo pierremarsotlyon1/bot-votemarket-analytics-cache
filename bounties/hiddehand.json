@@ -1,23 +1,23 @@
 {
-    "lastUpdate": 1698155874,
+    "lastUpdate": 1698156934,
     "bounties": [
         {
             "proposal": "0x275df57d2b23d53e20322b4bb71bf1dcb21d0a00",
             "proposalHash": "0xb355f196c7ab330d85a3a392623204f81c8f2d668baaeda4e78f87c9f50bef04",
             "title": "WETH-50% AURA-50%",
             "proposalDeadline": 1698278400,
-            "totalValue": 3469.03125,
-            "maxTotalValue": 6938.0625,
+            "totalValue": 3478.7437499999996,
+            "maxTotalValue": 6957.487499999999,
             "voteCount": 164692.32911065358,
-            "valuePerVote": 0.02106362292265002,
-            "maxValuePerVote": 0.04212724584530004,
+            "valuePerVote": 0.021122596285209447,
+            "maxValuePerVote": 0.042245192570418894,
             "bribes": [
                 {
                     "token": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
                     "symbol": "aura",
                     "decimals": 18,
-                    "value": 6938.0625,
-                    "maxValue": 6938.0625,
+                    "value": 6957.487499999999,
+                    "maxValue": 6957.487499999999,
                     "amount": 7500,
                     "maxTokensPerVote": 0.046,
                     "briber": "0x21aed3a7a1c34cd88b8a39dbdae042befbf947ff",
@@ -28,7 +28,7 @@
             ],
             "poolId": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9000200000000000000000274",
             "totalReward": 7500,
-            "apr": 0.10685935531490742,
+            "apr": 0.10715853725179425,
             "totalVotes": 164692.32911065358
         },
         {
@@ -36,18 +36,18 @@
             "proposalHash": "0xa2b574c32fbe12ce1e12ebb850253595ef7087671c213241076b924614822a20",
             "title": "B-80BAL-20WETH auraBAL",
             "proposalDeadline": 1698278400,
-            "totalValue": 4625.375,
-            "maxTotalValue": 9250.75,
+            "totalValue": 4638.325,
+            "maxTotalValue": 9276.65,
             "voteCount": 255085.54102622124,
-            "valuePerVote": 0.018132610178528026,
-            "maxValuePerVote": 0.03626522035705605,
+            "valuePerVote": 0.018183377370769076,
+            "maxValuePerVote": 0.03636675474153815,
             "bribes": [
                 {
                     "token": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
                     "symbol": "aura",
                     "decimals": 18,
-                    "value": 9250.75,
-                    "maxValue": 9250.75,
+                    "value": 9276.65,
+                    "maxValue": 9276.65,
                     "amount": 10000,
                     "maxTokensPerVote": 0.046,
                     "briber": "0x21aed3a7a1c34cd88b8a39dbdae042befbf947ff",
@@ -58,7 +58,7 @@
             ],
             "poolId": "0x3dd0843a028c86e0b760b1a76929d1c5ef93a2dd000200000000000000000249",
             "totalReward": 10000,
-            "apr": 0.09198982724716658,
+            "apr": 0.09224737788097481,
             "totalVotes": 255085.54102622124
         },
         {
@@ -246,11 +246,11 @@
             "proposalHash": "0x41a1b9afda04c858cf61d59533cf9afb795fa672e752df0ad47e04c513b8ad54",
             "title": "(P) WMATIC MaticX (ECLP)",
             "proposalDeadline": 1698278400,
-            "totalValue": 358.58921,
-            "maxTotalValue": 717.17842,
+            "totalValue": 358.40090999999995,
+            "maxTotalValue": 716.8018199999999,
             "voteCount": 5979.493643741907,
-            "valuePerVote": 0.0599647391187291,
-            "maxValuePerVote": 0.1199294782374582,
+            "valuePerVote": 0.05993325082441471,
+            "maxValuePerVote": 0.11986650164882942,
             "bribes": [
                 {
                     "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -269,8 +269,8 @@
                     "token": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
                     "symbol": "sd",
                     "decimals": 18,
-                    "value": 411.25280000000004,
-                    "maxValue": 411.25280000000004,
+                    "value": 410.8762,
+                    "maxValue": 410.8762,
                     "amount": 700,
                     "maxTokensPerVote": 0,
                     "briber": "0x1435679d38f4cb27b6b98d2874a636195b0db815",
@@ -281,7 +281,7 @@
             ],
             "poolId": "0xee278d943584dd8640eaf4cc6c7a5c80c0073e85000200000000000000000bc7",
             "totalReward": 1005.62,
-            "apr": 0.30421135943160127,
+            "apr": 0.30405161393849417,
             "totalVotes": 5979.493643741907
         },
         {
