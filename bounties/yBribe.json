@@ -1,5 +1,5 @@
 {
-    "lastUpdate": 1698204931,
+    "lastUpdate": 1698205569,
     "bounties": [
         {
             "gaugeAddress": "0x4fc86cd0f9b650280fa783e3116258e0e0496a2c",
@@ -41,7 +41,7 @@
             "totalReward": 23,
             "totalRewardsDollar": 23,
             "pricePerVeCRV": 7.169397271888482e-06,
-            "apr": 0.0007773308607325695,
+            "apr": 0.0007779959517983457,
             "totalVotes": 3208080.9502915475
         }
     ]
