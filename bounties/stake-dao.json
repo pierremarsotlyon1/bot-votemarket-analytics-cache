@@ -1,5 +1,5 @@
 {
-    "lastUpdate": 1698486463,
+    "lastUpdate": 1698488221,
     "bounties": [
         {
             "key": "crv",
@@ -57,7 +57,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 10,
                     "maxRewardPerVote": 0.0008013,
@@ -94,14 +94,14 @@
                             "weight": 278908.4606261719
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2.694609996894308,
-                    "maxRewardPerVoteUSD": 0.0046693353600000004,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2.6901707711992593,
+                    "maxRewardPerVoteUSD": 0.00466164288,
                     "gaugeName": "COIL+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 2424.5401,
+                    "totalRewardAmountUSD": 2420.5458,
                     "tokenPerVoteValue": 1.4741442763617716e-05,
-                    "rewardPerVoteValue": 8.948055757515954e-05,
+                    "rewardPerVoteValue": 8.933314314752336e-05,
                     "apr": 0,
                     "totalVotes": 3007572.382106971,
                     "active": false,
@@ -125,7 +125,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.06,
@@ -155,14 +155,14 @@
                         "hex": "0x00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 18.372219128745186,
-                    "maxRewardPerVoteUSD": 0.027437644799999997,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 18.32747920291503,
+                    "maxRewardPerVoteUSD": 0.0273708288,
                     "gaugeName": "UZD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 2551.319888,
+                    "totalRewardAmountUSD": 2545.106928,
                     "tokenPerVoteValue": 0.0576,
-                    "rewardPerVoteValue": 0.027437644799999997,
+                    "rewardPerVoteValue": 0.0273708288,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -186,7 +186,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 28,
                     "maxRewardPerVote": 0.02,
@@ -348,15 +348,15 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 8529.337701488113,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 8508.567105760356,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "USDT+WBTC+WETH ",
                     "rewardsAvailable": 42430.54568854287,
-                    "rewardsAvailableUSD": 20211.70557764602,
-                    "totalRewardAmountUSD": 1127039.368,
-                    "tokenPerVoteValue": 0.005539461719364252,
-                    "rewardPerVoteValue": 0.0026387115110957228,
-                    "apr": 0.2880520094069411,
+                    "rewardsAvailableUSD": 20162.48614464731,
+                    "totalRewardAmountUSD": 1124294.808,
+                    "tokenPerVoteValue": 0.005539461719364251,
+                    "rewardPerVoteValue": 0.00263228573550126,
+                    "apr": 0.28805200940694115,
                     "totalVotes": 7353300.595419233,
                     "active": true,
                     "end": 1698883200,
@@ -379,7 +379,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 28,
                     "maxRewardPerVote": 0.02,
@@ -409,15 +409,15 @@
                         "hex": "0x04de76dd397bb1dea73d80"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2914.12508310236,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2907.028621909285,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "poly-CRV+crvUSDBTCETH ",
                     "rewardsAvailable": 32936.47842347416,
-                    "rewardsAvailableUSD": 15689.22562406507,
-                    "totalRewardAmountUSD": 442050.944,
-                    "tokenPerVoteValue": 0.005371664505963155,
-                    "rewardPerVoteValue": 0.002558781644086537,
-                    "apr": 0.27932655431008413,
+                    "rewardsAvailableUSD": 15651.01930909384,
+                    "totalRewardAmountUSD": 440974.464,
+                    "tokenPerVoteValue": 0.005371664505963156,
+                    "rewardPerVoteValue": 0.00255255051325962,
+                    "apr": 0.2793265543100841,
                     "totalVotes": 5886261.294364636,
                     "active": true,
                     "end": 1698883200,
@@ -440,7 +440,7 @@
                         "decimals": 18,
                         "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
-                        "price": 1.84
+                        "price": 1.83
                     },
                     "numberOfPeriods": 23,
                     "maxRewardPerVote": 0.005,
@@ -502,14 +502,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 651.2330220618709,
-                    "maxRewardPerVoteUSD": 0.008832,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 647.6937121593608,
+                    "maxRewardPerVoteUSD": 0.008784,
                     "gaugeName": "ETH+LDO ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 873950.3200000001,
+                    "totalRewardAmountUSD": 869200.5900000001,
                     "tokenPerVoteValue": 0.0048,
-                    "rewardPerVoteValue": 0.008832,
+                    "rewardPerVoteValue": 0.008784,
                     "apr": 0,
                     "totalVotes": 265190.25216730946,
                     "active": false,
@@ -533,7 +533,7 @@
                         "decimals": 18,
                         "address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d.png",
-                        "price": 0.279915
+                        "price": 0.282917
                     },
                     "numberOfPeriods": 28,
                     "maxRewardPerVote": 0.01646,
@@ -580,15 +580,15 @@
                             "weight": 529100.9253196497
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 414.2993213380501,
-                    "maxRewardPerVoteUSD": 0.004423104864,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 418.7425507564693,
+                    "maxRewardPerVoteUSD": 0.004470541267199999,
                     "gaugeName": "ETH+rETH ",
                     "rewardsAvailable": 2407.760868842183,
-                    "rewardsAvailableUSD": 673.9683836019597,
-                    "totalRewardAmountUSD": 33029.97,
+                    "rewardsAvailableUSD": 681.1964817302238,
+                    "totalRewardAmountUSD": 33384.206,
                     "tokenPerVoteValue": 0.009019801587770796,
-                    "rewardPerVoteValue": 0.002524777761440863,
-                    "apr": 0.275614558253472,
+                    "rewardPerVoteValue": 0.0025518552058073503,
+                    "apr": 0.2792504665563571,
                     "totalVotes": 256264.55674273323,
                     "active": true,
                     "end": 1700092800,
@@ -611,7 +611,7 @@
                         "decimals": 18,
                         "address": "0xA1f82E14bc09A1b42710dF1A8a999B62f294e592",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xa1f82e14bc09a1b42710df1a8a999b62f294e592.png",
-                        "price": 0.159578
+                        "price": 0.160098
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.0220321,
@@ -648,14 +648,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 33.46200683000437,
-                    "maxRewardPerVoteUSD": 0.0033752049156479994,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 33.57104594286204,
+                    "maxRewardPerVoteUSD": 0.0033862033399679995,
                     "gaugeName": "eCFX+ETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 15957.8,
-                    "tokenPerVoteValue": 0.021150815999999996,
-                    "rewardPerVoteValue": 0.0033752049156479994,
+                    "totalRewardAmountUSD": 16009.8,
+                    "tokenPerVoteValue": 0.021150816,
+                    "rewardPerVoteValue": 0.0033862033399679995,
                     "apr": 0,
                     "totalVotes": 24.06758468686488,
                     "active": false,
@@ -679,7 +679,7 @@
                         "decimals": 18,
                         "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x2ebd53d035150f328bd754d6dc66b99b0edb89aa.png",
-                        "price": 0.819834
+                        "price": 0.823148
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.00425,
@@ -716,14 +716,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.138496478803178,
-                    "maxRewardPerVoteUSD": 0.00334492272,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.1511831657797535,
+                    "maxRewardPerVoteUSD": 0.00335844384,
                     "gaugeName": "ETH+msETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 16396.68,
+                    "totalRewardAmountUSD": 16462.96,
                     "tokenPerVoteValue": 0.00408,
-                    "rewardPerVoteValue": 0.00334492272,
+                    "rewardPerVoteValue": 0.00335844384,
                     "apr": 0,
                     "totalVotes": 1188.6166669212391,
                     "active": false,
@@ -747,7 +747,7 @@
                         "decimals": 18,
                         "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x2ebd53d035150f328bd754d6dc66b99b0edb89aa.png",
-                        "price": 0.819834
+                        "price": 0.823148
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.00425,
@@ -784,14 +784,14 @@
                             "weight": 4710454.001686459
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 80.43837329921799,
-                    "maxRewardPerVoteUSD": 0.00334492272,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 80.76352786601275,
+                    "maxRewardPerVoteUSD": 0.00335844384,
                     "gaugeName": "msUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 8198.34,
+                    "totalRewardAmountUSD": 8231.48,
                     "tokenPerVoteValue": 0.00408,
-                    "rewardPerVoteValue": 0.00334492272,
+                    "rewardPerVoteValue": 0.00335844384,
                     "apr": 0,
                     "totalVotes": 1407.5290395781844,
                     "active": false,
@@ -815,7 +815,7 @@
                         "decimals": 18,
                         "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xdbdb4d16eda451d0503b854cf79d55697f90c8df.png",
-                        "price": 13.49
+                        "price": 13.54
                     },
                     "numberOfPeriods": 24,
                     "maxRewardPerVote": 0.000456,
@@ -857,15 +857,15 @@
                             "weight": 2829539.731057257
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 825.5103889652972,
-                    "maxRewardPerVoteUSD": 0.0059053824,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 828.570101303938,
+                    "maxRewardPerVoteUSD": 0.0059272704,
                     "gaugeName": "alUSD+FRAXBP ",
                     "rewardsAvailable": 520.2986841465723,
-                    "rewardsAvailableUSD": 7018.82924913726,
-                    "totalRewardAmountUSD": 161880,
+                    "rewardsAvailableUSD": 7044.844183344589,
+                    "totalRewardAmountUSD": 162480,
                     "tokenPerVoteValue": 0.00020606058498036676,
-                    "rewardPerVoteValue": 0.0027797572913851477,
-                    "apr": 0.30344911525193274,
+                    "rewardPerVoteValue": 0.002790060320634166,
+                    "apr": 0.3053173410796919,
                     "totalVotes": 2423980.641937194,
                     "active": true,
                     "end": 1698883200,
@@ -949,7 +949,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 21,
                     "maxRewardPerVote": 0.0067336,
@@ -986,14 +986,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 84.90523766801222,
-                    "maxRewardPerVoteUSD": 0.039238033920000005,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 84.76536083495124,
+                    "maxRewardPerVoteUSD": 0.03917339136,
                     "gaugeName": "sUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3782.3687385786466,
+                    "totalRewardAmountUSD": 3776.1374885974624,
                     "tokenPerVoteValue": 0.0004930532350268861,
-                    "rewardPerVoteValue": 0.002992833136613199,
+                    "rewardPerVoteValue": 0.00298790260426293,
                     "apr": 0,
                     "totalVotes": 39191.40090289502,
                     "active": true,
@@ -1017,7 +1017,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 13,
                     "maxRewardPerVote": 0.0067336,
@@ -1054,14 +1054,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 91.95677044404272,
-                    "maxRewardPerVoteUSD": 0.039238033920000005,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 91.80527658828646,
+                    "maxRewardPerVoteUSD": 0.03917339136,
                     "gaugeName": "BADGER+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 2949.6054226335605,
-                    "tokenPerVoteValue": 0.006464256000000001,
-                    "rewardPerVoteValue": 0.039238033920000005,
+                    "totalRewardAmountUSD": 2944.7461056275743,
+                    "tokenPerVoteValue": 0.006464256,
+                    "rewardPerVoteValue": 0.03917339136,
                     "apr": 0,
                     "totalVotes": 2608.9456018797696,
                     "active": false,
@@ -1085,7 +1085,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 21,
                     "maxRewardPerVote": 0.0067336,
@@ -1122,14 +1122,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 26.062230488127412,
-                    "maxRewardPerVoteUSD": 0.039238033920000005,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 26.01929435882242,
+                    "maxRewardPerVoteUSD": 0.03917339136,
                     "gaugeName": "RSR+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 5536.434248592399,
+                    "totalRewardAmountUSD": 5527.31326959966,
                     "tokenPerVoteValue": 0.000222974270389935,
-                    "rewardPerVoteValue": 0.0013534538212669055,
+                    "rewardPerVoteValue": 0.001351224078563006,
                     "apr": 0,
                     "totalVotes": 56830.357061382776,
                     "active": true,
@@ -1153,7 +1153,7 @@
                         "decimals": 18,
                         "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
-                        "price": 0.281552
+                        "price": 0.281613
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.015,
@@ -1190,14 +1190,14 @@
                             "weight": 138026.32834425644
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5.3143784656e-14,
-                    "maxRewardPerVoteUSD": 0.0040543488,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5.3155298588999996e-14,
+                    "maxRewardPerVoteUSD": 0.0040552272,
                     "gaugeName": "YFI+sdYFI ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1718.0303040000001,
+                    "totalRewardAmountUSD": 1718.402526,
                     "tokenPerVoteValue": 0.0144,
-                    "rewardPerVoteValue": 0.0040543488,
+                    "rewardPerVoteValue": 0.0040552272,
                     "apr": 0,
                     "totalVotes": 110763.72821588711,
                     "active": false,
@@ -1221,7 +1221,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 22,
                     "maxRewardPerVote": 0.02,
@@ -1303,14 +1303,14 @@
                             "weight": 186367.46923294364
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2357.019367179014,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2351.2795667265555,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "USDC+WBTC+WETH ",
                     "rewardsAvailable": 62675.650815936795,
-                    "rewardsAvailableUSD": 29855.42091486986,
-                    "totalRewardAmountUSD": 539225.936,
+                    "rewardsAvailableUSD": 29782.717159923373,
+                    "totalRewardAmountUSD": 537912.816,
                     "tokenPerVoteValue": 0.0050808594392314915,
-                    "rewardPerVoteValue": 0.0024202572321590423,
+                    "rewardPerVoteValue": 0.002414363435209534,
                     "apr": 0.2642046908400375,
                     "totalVotes": 11842214.392530285,
                     "active": true,
@@ -1334,7 +1334,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 22,
                     "maxRewardPerVote": 0.02,
@@ -1416,15 +1416,15 @@
                             "weight": 186367.46923294364
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 504.1778128222596,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 502.9500418168732,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "USDT+WBTC+WETH ",
                     "rewardsAvailable": 62764.43949657076,
-                    "rewardsAvailableUSD": 29897.715225312488,
-                    "totalRewardAmountUSD": 501118.096,
+                    "rewardsAvailableUSD": 29824.908475496468,
+                    "totalRewardAmountUSD": 499897.776,
                     "tokenPerVoteValue": 0.004723028915681499,
-                    "rewardPerVoteValue": 0.002249805377927051,
-                    "apr": 0.24559750361543795,
+                    "rewardPerVoteValue": 0.00224432666438486,
+                    "apr": 0.24559750361543792,
                     "totalVotes": 12757462.801160552,
                     "active": true,
                     "end": 1698883200,
@@ -1447,7 +1447,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 20,
                     "maxRewardPerVote": 0.02,
@@ -1534,14 +1534,14 @@
                             "weight": 534917.1009055739
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1348.0882392295164,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1344.805382247843,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "USDT+crvUSD ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 362024.48,
+                    "totalRewardAmountUSD": 361142.88,
                     "tokenPerVoteValue": 0.006057120295404497,
-                    "rewardPerVoteValue": 0.002885297138475341,
+                    "rewardPerVoteValue": 0.002878270878932672,
                     "apr": 0,
                     "totalVotes": 6675292.637431065,
                     "active": true,
@@ -1565,7 +1565,7 @@
                         "decimals": 6,
                         "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x467719ad09025fcc6cf6f8311755809d45a5e5f3.png",
-                        "price": 0.316138
+                        "price": 0.316184
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.011122,
@@ -1595,14 +1595,14 @@
                         "hex": "0x00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 117.925848290494,
-                    "maxRewardPerVoteUSD": 0.0033754433625599995,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 117.94300721799202,
+                    "maxRewardPerVoteUSD": 0.00337593451008,
                     "gaugeName": "arbi-axlUSDC+FRAXBP-f ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3050.7317,
+                    "totalRewardAmountUSD": 3051.1756,
                     "tokenPerVoteValue": 0.01067712,
-                    "rewardPerVoteValue": 0.0033754433625599995,
+                    "rewardPerVoteValue": 0.00337593451008,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -1626,7 +1626,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0008102,
@@ -1663,14 +1663,14 @@
                             "weight": 464847.4343769532
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.0004005843698341847,
-                    "maxRewardPerVoteUSD": 0.00472119744,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.0003999244285329751,
+                    "maxRewardPerVoteUSD": 0.00471341952,
                     "gaugeName": "STG+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1159.3700000000001,
+                    "totalRewardAmountUSD": 1157.46,
                     "tokenPerVoteValue": 0.00012031172827749547,
-                    "rewardPerVoteValue": 0.0007302921906443975,
+                    "rewardPerVoteValue": 0.0007290890733616225,
                     "apr": 0,
                     "totalVotes": 762021.2173762547,
                     "active": false,
@@ -1694,7 +1694,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 20,
                     "maxRewardPerVote": 0.0008092,
@@ -1731,14 +1731,14 @@
                             "weight": 1177613.5004216146
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.00013048175074279093,
-                    "maxRewardPerVoteUSD": 0.00471537024,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.00013026678904469737,
+                    "maxRewardPerVoteUSD": 0.004707601919999999,
                     "gaugeName": "ALCX+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3794.8541762176183,
+                    "totalRewardAmountUSD": 3788.6023571464193,
                     "tokenPerVoteValue": 1.188608287364134e-05,
-                    "rewardPerVoteValue": 7.214852304300294e-05,
+                    "rewardPerVoteValue": 7.202966221426652e-05,
                     "apr": 0,
                     "totalVotes": 1886539.4939727911,
                     "active": true,
@@ -1762,7 +1762,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 20,
                     "maxRewardPerVote": 0.0008092,
@@ -1799,14 +1799,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.0054362862070008,
-                    "maxRewardPerVoteUSD": 0.00471537024,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.0004849908425735,
+                    "maxRewardPerVoteUSD": 0.004707601919999999,
                     "gaugeName": "USDD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1764.3413559757382,
+                    "totalRewardAmountUSD": 1761.4346980581504,
                     "tokenPerVoteValue": 0.00013077404290520348,
-                    "rewardPerVoteValue": 0.0007937984404345851,
+                    "rewardPerVoteValue": 0.0007924907000055331,
                     "apr": 0,
                     "totalVotes": 104609.53094481066,
                     "active": true,
@@ -1830,7 +1830,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 16,
                     "maxRewardPerVote": 0.0008176,
@@ -1867,14 +1867,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 45.949170927656546,
-                    "maxRewardPerVoteUSD": 0.00476431872,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 45.87347212876419,
+                    "maxRewardPerVoteUSD": 0.00475646976,
                     "gaugeName": "arbi-FRAX+USDC.e ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 9888.03,
+                    "totalRewardAmountUSD": 9871.74,
                     "tokenPerVoteValue": 4.5670871856620876e-05,
-                    "rewardPerVoteValue": 0.00027722219216968873,
+                    "rewardPerVoteValue": 0.0002767654834511225,
                     "apr": 0,
                     "totalVotes": 1249557.3463993436,
                     "active": false,
@@ -1959,7 +1959,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 12,
                     "maxRewardPerVote": 0.004,
@@ -1996,14 +1996,14 @@
                             "weight": 278908.4606261719
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7.539540933608122,
-                    "maxRewardPerVoteUSD": 0.00182917632,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7.521180685463938,
+                    "maxRewardPerVoteUSD": 0.00182472192,
                     "gaugeName": "COIL+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 135970.202164,
+                    "totalRewardAmountUSD": 135639.088284,
                     "tokenPerVoteValue": 0.0027286181517033703,
-                    "rewardPerVoteValue": 0.001299771799327597,
+                    "rewardPerVoteValue": 0.001296606602271621,
                     "apr": 0,
                     "totalVotes": 3007572.382106971,
                     "active": false,
@@ -2027,7 +2027,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 18,
                     "maxRewardPerVote": 0.02,
@@ -2189,14 +2189,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1622.905035763429,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1618.9529464474551,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "USDC+crvUSD ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 362024.48,
+                    "totalRewardAmountUSD": 361142.88,
                     "tokenPerVoteValue": 0.006600037886533168,
-                    "rewardPerVoteValue": 0.0031439148471743015,
+                    "rewardPerVoteValue": 0.0031362588032259227,
                     "apr": 0,
                     "totalVotes": 6365285.244519885,
                     "active": true,
@@ -2220,7 +2220,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 6,
                     "maxRewardPerVote": 0.0007392,
@@ -2257,14 +2257,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 224.59,
-                    "maxRewardPerVoteUSD": 0.004307466239999999,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 224.22,
+                    "maxRewardPerVoteUSD": 0.004300369919999999,
                     "gaugeName": "GUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 224.59,
+                    "totalRewardAmountUSD": 224.22,
                     "tokenPerVoteValue": 0.0007096319999999999,
-                    "rewardPerVoteValue": 0.004307466239999999,
+                    "rewardPerVoteValue": 0.004300369919999999,
                     "apr": 0,
                     "totalVotes": 23.91462692412837,
                     "active": false,
@@ -2288,7 +2288,7 @@
                         "decimals": 6,
                         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-                        "price": 0.999944
+                        "price": 0.999826
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0051,
@@ -2318,14 +2318,14 @@
                         "hex": "0x056e9ce6a56685362300"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 999.9440000000001,
-                    "maxRewardPerVoteUSD": 0.004895725824000001,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 999.826,
+                    "maxRewardPerVoteUSD": 0.004895148096000001,
                     "gaugeName": "DUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 999.9440000000001,
+                    "totalRewardAmountUSD": 999.826,
                     "tokenPerVoteValue": 0.004896000000000001,
-                    "rewardPerVoteValue": 0.004895725824000001,
+                    "rewardPerVoteValue": 0.004895148096000001,
                     "apr": 0,
                     "totalVotes": 25652.280168230576,
                     "active": false,
@@ -2349,7 +2349,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0008015,
@@ -2386,14 +2386,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 60.7,
-                    "maxRewardPerVoteUSD": 0.0046705008000000004,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 60.599999999999994,
+                    "maxRewardPerVoteUSD": 0.0046628063999999995,
                     "gaugeName": "agEUR+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 60.7,
+                    "totalRewardAmountUSD": 60.599999999999994,
                     "tokenPerVoteValue": 0.0004144004144004144,
-                    "rewardPerVoteValue": 0.0025154105154105155,
+                    "rewardPerVoteValue": 0.002511266511266511,
                     "apr": 0,
                     "totalVotes": 11583.472560575316,
                     "active": false,
@@ -2417,7 +2417,7 @@
                         "decimals": 18,
                         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
-                        "price": 1789.09
+                        "price": 1789.16
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 3.44622e-06,
@@ -2447,14 +2447,14 @@
                         "hex": "0x372ee3867de7c8f54080"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.024993680522702,
-                    "maxRewardPerVoteUSD": 0.005918973830207999,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.025151162570914,
+                    "maxRewardPerVoteUSD": 0.005919205416192,
                     "gaugeName": "MAI+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1932.2172,
+                    "totalRewardAmountUSD": 1932.2928000000002,
                     "tokenPerVoteValue": 1.9975480993419053e-06,
-                    "rewardPerVoteValue": 0.0035737933290516093,
+                    "rewardPerVoteValue": 0.0035739331574185635,
                     "apr": 0,
                     "totalVotes": 260595.10171514907,
                     "active": false,
@@ -2539,7 +2539,7 @@
                         "decimals": 18,
                         "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
-                        "price": 1.84
+                        "price": 1.83
                     },
                     "numberOfPeriods": 12,
                     "maxRewardPerVote": 0.005,
@@ -2701,14 +2701,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.4664048460446693,
-                    "maxRewardPerVoteUSD": 0.008832,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.4475656892726874,
+                    "maxRewardPerVoteUSD": 0.008784,
                     "gaugeName": "ETH+stETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 303600,
+                    "totalRewardAmountUSD": 301950,
                     "tokenPerVoteValue": 0.0018983188162959436,
-                    "rewardPerVoteValue": 0.0034929066219845364,
+                    "rewardPerVoteValue": 0.003473923433821577,
                     "apr": 0,
                     "totalVotes": 7511641.950438847,
                     "active": false,
@@ -2732,7 +2732,7 @@
                         "decimals": 18,
                         "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
-                        "price": 1.84
+                        "price": 1.83
                     },
                     "numberOfPeriods": 8,
                     "maxRewardPerVote": 0.005,
@@ -2786,7 +2786,7 @@
                     "rewardTokenDecimals": 18,
                     "gaugeWeight": {
                         "type": "BigNumber",
-                        "hex": "0x0475ce057ee73966fe4220"
+                        "hex": "0x047a2ab81f8d1ef900d720"
                     },
                     "weightPerBlacklists": [
                         {
@@ -2894,16 +2894,16 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 612.0251476640863,
-                    "maxRewardPerVoteUSD": 0.008832,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 608.6989240354771,
+                    "maxRewardPerVoteUSD": 0.008784,
                     "gaugeName": "crvUSD+tBTC+wstETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 202400,
-                    "tokenPerVoteValue": 0.0025826612892954092,
-                    "rewardPerVoteValue": 0.0047520967723035535,
+                    "totalRewardAmountUSD": 201300,
+                    "tokenPerVoteValue": 0.0025728318864259143,
+                    "rewardPerVoteValue": 0.004708282352159423,
                     "apr": 0,
-                    "totalVotes": 5392020.582241501,
+                    "totalVotes": 5412620.0200979,
                     "active": false,
                     "end": 1694044800,
                     "start": 1689811200,
@@ -2925,7 +2925,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.01,
@@ -2955,14 +2955,14 @@
                         "hex": "0x02c4c416de3a0839a900"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 330.23030709694234,
-                    "maxRewardPerVoteUSD": 0.0045729408,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 329.4261320899465,
+                    "maxRewardPerVoteUSD": 0.0045618047999999994,
                     "gaugeName": "UZD+crvUSD ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 15332.689424,
+                    "totalRewardAmountUSD": 15295.351344,
                     "tokenPerVoteValue": 0.0096,
-                    "rewardPerVoteValue": 0.0045729408,
+                    "rewardPerVoteValue": 0.0045618047999999994,
                     "apr": 0,
                     "totalVotes": 13074.424529408112,
                     "active": false,
@@ -2986,7 +2986,7 @@
                         "decimals": 18,
                         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
-                        "price": 1789.09
+                        "price": 1789.16
                     },
                     "numberOfPeriods": 14,
                     "maxRewardPerVote": 1.30763e-06,
@@ -3016,14 +3016,14 @@
                         "hex": "0x372ee3867de7c8f54080"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1150.878181052686,
-                    "maxRewardPerVoteUSD": 0.002245889046432,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1150.923210353992,
+                    "maxRewardPerVoteUSD": 0.002245976919168,
                     "gaugeName": "MAI+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 14636.4813121416,
+                    "totalRewardAmountUSD": 14637.0539796384,
                     "tokenPerVoteValue": 1.2553248e-06,
-                    "rewardPerVoteValue": 0.002245889046432,
+                    "rewardPerVoteValue": 0.002245976919168,
                     "apr": 0,
                     "totalVotes": 260595.10171514907,
                     "active": true,
@@ -3047,7 +3047,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 14,
                     "maxRewardPerVote": 0.0007842,
@@ -3084,14 +3084,14 @@
                             "weight": 1239593.1583385419
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 522.4253536127148,
-                    "maxRewardPerVoteUSD": 0.00456969024,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 521.5646858143413,
+                    "maxRewardPerVoteUSD": 0.004562161919999999,
                     "gaugeName": "XAI+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 13599.012361487581,
+                    "totalRewardAmountUSD": 13576.608716740484,
                     "tokenPerVoteValue": 0.00025571880243773767,
-                    "rewardPerVoteValue": 0.0015522131307970678,
+                    "rewardPerVoteValue": 0.0015496559427726903,
                     "apr": 0,
                     "totalVotes": 736101.848043386,
                     "active": true,
@@ -3115,7 +3115,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 14,
                     "maxRewardPerVote": 0.0007842,
@@ -3152,14 +3152,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2.6763844e-13,
-                    "maxRewardPerVoteUSD": 0.00456969024,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2.6719751999999995e-13,
+                    "maxRewardPerVoteUSD": 0.004562161919999999,
                     "gaugeName": "OHM+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 5886.684072728624,
+                    "totalRewardAmountUSD": 5876.9860759037,
                     "tokenPerVoteValue": 0.00025795678494502195,
-                    "rewardPerVoteValue": 0.0015657976846162834,
+                    "rewardPerVoteValue": 0.0015632181167668329,
                     "apr": 0,
                     "totalVotes": 304975.9221221097,
                     "active": true,
@@ -3183,7 +3183,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 14,
                     "maxRewardPerVote": 0.0007856,
@@ -3220,14 +3220,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 21.301375771217305,
-                    "maxRewardPerVoteUSD": 0.00457784832,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 21.266282895152692,
+                    "maxRewardPerVoteUSD": 0.00457030656,
                     "gaugeName": "PUSd+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 2914.7779023403923,
-                    "tokenPerVoteValue": 0.00047288610404847166,
-                    "rewardPerVoteValue": 0.002870418651574223,
+                    "totalRewardAmountUSD": 2909.9759618093535,
+                    "tokenPerVoteValue": 0.0004728861040484716,
+                    "rewardPerVoteValue": 0.0028656897905337377,
                     "apr": 0,
                     "totalVotes": 84154.44246992818,
                     "active": true,
@@ -3251,7 +3251,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 14,
                     "maxRewardPerVote": 0.0007856,
@@ -3288,14 +3288,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 26.510423247810387,
-                    "maxRewardPerVoteUSD": 0.00457784832,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 26.46674874493096,
+                    "maxRewardPerVoteUSD": 0.00457030656,
                     "gaugeName": "LUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1311.4955396423559,
+                    "totalRewardAmountUSD": 1309.334920960902,
                     "tokenPerVoteValue": 0.00034426462646358445,
-                    "rewardPerVoteValue": 0.002089686282633958,
+                    "rewardPerVoteValue": 0.0020862436363693216,
                     "apr": 0,
                     "totalVotes": 38104.97809027088,
                     "active": true,
@@ -3380,7 +3380,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 12,
                     "maxRewardPerVote": 0.02,
@@ -3395,7 +3395,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 12669.609481707721,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 12564.89116530319,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -3434,7 +3434,7 @@
                     "rewardTokenDecimals": 18,
                     "gaugeWeight": {
                         "type": "BigNumber",
-                        "hex": "0x14a7caffaf068f6f3c33a0"
+                        "hex": "0x14a36e4d0e60a9dd399ea0"
                     },
                     "weightPerBlacklists": [
                         {
@@ -3542,16 +3542,16 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6035.14313739251,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5970.685503058092,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "crvUSD+WETH+CRV ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 523982.8,
-                    "tokenPerVoteValue": 0.004864494184017367,
-                    "rewardPerVoteValue": 0.0023171920755683047,
+                    "totalRewardAmountUSD": 522706.8,
+                    "tokenPerVoteValue": 0.004868510512328292,
+                    "rewardPerVoteValue": 0.0023134577733322564,
                     "apr": 0,
-                    "totalVotes": 24970896.261186518,
+                    "totalVotes": 24950296.823330116,
                     "active": true,
                     "end": 1697673600,
                     "start": 1691020800,
@@ -3573,7 +3573,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 12,
                     "maxRewardPerVote": 0.0005884,
@@ -3610,14 +3610,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 16.07145552855545,
-                    "maxRewardPerVoteUSD": 0.00342872448,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 16.044978666070186,
+                    "maxRewardPerVoteUSD": 0.00342307584,
                     "gaugeName": "MAI+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 705.2612201611161,
-                    "tokenPerVoteValue": 2.7952359406885464e-05,
-                    "rewardPerVoteValue": 0.00016967082159979478,
+                    "totalRewardAmountUSD": 704.0993400620038,
+                    "tokenPerVoteValue": 2.795235940688547e-05,
+                    "rewardPerVoteValue": 0.00016939129800572594,
                     "apr": 0,
                     "totalVotes": 260595.10171514907,
                     "active": true,
@@ -3641,7 +3641,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 12,
                     "maxRewardPerVote": 0.0005893,
@@ -3678,14 +3678,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 12.916565117245705,
-                    "maxRewardPerVoteUSD": 0.00343396896,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 12.895285767793899,
+                    "maxRewardPerVoteUSD": 0.0034283116799999993,
                     "gaugeName": "DUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 512.6204638084075,
+                    "totalRewardAmountUSD": 511.77594904101306,
                     "tokenPerVoteValue": 0.0005657279999999999,
-                    "rewardPerVoteValue": 0.00343396896,
+                    "rewardPerVoteValue": 0.0034283116799999993,
                     "apr": 0,
                     "totalVotes": 25652.280168230576,
                     "active": true,
@@ -3709,7 +3709,7 @@
                         "decimals": 6,
                         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-                        "price": 0.999944
+                        "price": 0.999826
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.003264,
@@ -3739,14 +3739,14 @@
                         "hex": "0x056e9ce6a56685362300"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 931.24116257436,
-                    "maxRewardPerVoteUSD": 0.00313326452736,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 931.13126996319,
+                    "maxRewardPerVoteUSD": 0.0031328947814399997,
                     "gaugeName": "DUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 999.9440000000001,
+                    "totalRewardAmountUSD": 999.826,
                     "tokenPerVoteValue": 0.00313344,
-                    "rewardPerVoteValue": 0.00313326452736,
+                    "rewardPerVoteValue": 0.0031328947814399997,
                     "apr": 0,
                     "totalVotes": 25652.280168230576,
                     "active": false,
@@ -3770,7 +3770,7 @@
                         "decimals": 18,
                         "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
-                        "price": 103.11
+                        "price": 103.13
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.00406356,
@@ -3807,14 +3807,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 492.0937198634665,
-                    "maxRewardPerVoteUSD": 0.402233924736,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 492.18917010492964,
+                    "maxRewardPerVoteUSD": 0.40231194508799994,
                     "gaugeName": "xdai-WXDAI+USDC+USDT ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1546.65,
+                    "totalRewardAmountUSD": 1546.9499999999998,
                     "tokenPerVoteValue": 0.00010810490941284168,
-                    "rewardPerVoteValue": 0.011146697209558106,
+                    "rewardPerVoteValue": 0.011148859307746362,
                     "apr": 0,
                     "totalVotes": 98752.72251128909,
                     "active": false,
@@ -3838,7 +3838,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 10,
                     "maxRewardPerVote": 0.0004331,
@@ -3875,14 +3875,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.911540540978351,
-                    "maxRewardPerVoteUSD": 0.00252376032,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.90344904091084,
+                    "maxRewardPerVoteUSD": 0.00251960256,
                     "gaugeName": "GRAI+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 4972.196404046383,
+                    "totalRewardAmountUSD": 4964.004976692105,
                     "tokenPerVoteValue": 0.00032881737744041976,
-                    "rewardPerVoteValue": 0.001995921481063348,
+                    "rewardPerVoteValue": 0.0019926333072889436,
                     "apr": 0,
                     "totalVotes": 531491.0722084217,
                     "active": true,
@@ -3906,7 +3906,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0004289,
@@ -3943,14 +3943,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.428525287376779,
-                    "maxRewardPerVoteUSD": 0.00249928608,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.42287697553596,
+                    "maxRewardPerVoteUSD": 0.00249516864,
                     "gaugeName": "DUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 60.7,
+                    "totalRewardAmountUSD": 60.599999999999994,
                     "tokenPerVoteValue": 0.00020629653315687696,
-                    "rewardPerVoteValue": 0.0012522199562622432,
+                    "rewardPerVoteValue": 0.0012501569909306742,
                     "apr": 0,
                     "totalVotes": 25652.280168230576,
                     "active": false,
@@ -3974,7 +3974,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 10,
                     "maxRewardPerVote": 0.0004309,
@@ -4011,14 +4011,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 219.51902876726234,
-                    "maxRewardPerVoteUSD": 0.00251094048,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 219.15738292085825,
+                    "maxRewardPerVoteUSD": 0.00250680384,
                     "gaugeName": "BUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 439.0380575345247,
-                    "tokenPerVoteValue": 0.00041366399999999995,
-                    "rewardPerVoteValue": 0.00251094048,
+                    "totalRewardAmountUSD": 438.3147658417165,
+                    "tokenPerVoteValue": 0.000413664,
+                    "rewardPerVoteValue": 0.00250680384,
                     "apr": 0,
                     "totalVotes": 1033.866780390178,
                     "active": true,
@@ -4042,7 +4042,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.0004317,
@@ -4079,14 +4079,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 159.0580377430036,
-                    "maxRewardPerVoteUSD": 0.00251560224,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 158.79599814210903,
+                    "maxRewardPerVoteUSD": 0.0025114579199999993,
                     "gaugeName": "GUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 159.0580377430036,
-                    "tokenPerVoteValue": 0.00041443199999999995,
-                    "rewardPerVoteValue": 0.00251560224,
+                    "totalRewardAmountUSD": 158.79599814210903,
+                    "tokenPerVoteValue": 0.0004144319999999999,
+                    "rewardPerVoteValue": 0.0025114579199999993,
                     "apr": 0,
                     "totalVotes": 23.91462692412837,
                     "active": false,
@@ -4110,7 +4110,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 10,
                     "maxRewardPerVote": 0.00049,
@@ -4147,14 +4147,14 @@
                             "weight": 6693803.055028126
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4122.870928433996,
-                    "maxRewardPerVoteUSD": 0.002855328,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4116.078719326197,
+                    "maxRewardPerVoteUSD": 0.0028506239999999995,
                     "gaugeName": "FRAX+USDC ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 439085.59,
-                    "tokenPerVoteValue": 0.0004183598205157765,
-                    "rewardPerVoteValue": 0.0025394441105307634,
+                    "totalRewardAmountUSD": 438362.22,
+                    "tokenPerVoteValue": 0.00041835982051577656,
+                    "rewardPerVoteValue": 0.0025352605123256057,
                     "apr": 0,
                     "totalVotes": 16324566.636019351,
                     "active": true,
@@ -4178,7 +4178,7 @@
                         "decimals": 18,
                         "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6810e776880c02933d47db1b9fc05908e5386b96.png",
-                        "price": 103.11
+                        "price": 103.13
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0029334,
@@ -4215,14 +4215,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 365.8441426067398,
-                    "maxRewardPerVoteUSD": 0.29036435903999996,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 365.915104519766,
+                    "maxRewardPerVoteUSD": 0.29042068031999996,
                     "gaugeName": "xdai-WXDAI+USDC+USDT ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1546.65,
+                    "totalRewardAmountUSD": 1546.9499999999998,
                     "tokenPerVoteValue": 0.00010027125388895633,
-                    "rewardPerVoteValue": 0.010338968988490287,
+                    "rewardPerVoteValue": 0.010340974413568066,
                     "apr": 0,
                     "totalVotes": 98752.72251128909,
                     "active": false,
@@ -4246,7 +4246,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.0004054,
@@ -4283,14 +4283,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 227.629909392504,
-                    "maxRewardPerVoteUSD": 0.00236234688,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 227.25490130454267,
+                    "maxRewardPerVoteUSD": 0.00235845504,
                     "gaugeName": "arbi-USD++FRAXBP-f ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 613.07,
-                    "tokenPerVoteValue": 0.000389184,
-                    "rewardPerVoteValue": 0.00236234688,
+                    "totalRewardAmountUSD": 612.06,
+                    "tokenPerVoteValue": 0.00038918400000000005,
+                    "rewardPerVoteValue": 0.00235845504,
                     "apr": 0,
                     "totalVotes": 33007.00420854102,
                     "active": false,
@@ -4314,7 +4314,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 8,
                     "maxRewardPerVote": 0.0004078,
@@ -4351,14 +4351,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 111.78457292400157,
-                    "maxRewardPerVoteUSD": 0.0023763321600000003,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 111.60041382527997,
+                    "maxRewardPerVoteUSD": 0.00237241728,
                     "gaugeName": "swETH+frxETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 223.56914584800313,
+                    "totalRewardAmountUSD": 223.20082765055994,
                     "tokenPerVoteValue": 0.00039148800000000006,
-                    "rewardPerVoteValue": 0.0023763321600000003,
+                    "rewardPerVoteValue": 0.00237241728,
                     "apr": 0,
                     "totalVotes": 2496.7119739360674,
                     "active": true,
@@ -4382,7 +4382,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 6,
                     "maxRewardPerVote": 0.0004078,
@@ -4419,14 +4419,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 19.092323190163004,
-                    "maxRewardPerVoteUSD": 0.0023763321600000003,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 19.060869609948565,
+                    "maxRewardPerVoteUSD": 0.00237241728,
                     "gaugeName": "WACME+frxETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 199.30489433154546,
+                    "totalRewardAmountUSD": 198.97655018931883,
                     "tokenPerVoteValue": 0.00039148800000000006,
-                    "rewardPerVoteValue": 0.0023763321600000003,
+                    "rewardPerVoteValue": 0.00237241728,
                     "apr": 0,
                     "totalVotes": 6860.568318091205,
                     "active": false,
@@ -4450,7 +4450,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 8,
                     "maxRewardPerVote": 0.0004071,
@@ -4487,14 +4487,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7.337497208319096,
-                    "maxRewardPerVoteUSD": 0.00237225312,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7.325409074532738,
+                    "maxRewardPerVoteUSD": 0.0023683449599999997,
                     "gaugeName": "dETH+frxETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1014.2944744936935,
+                    "totalRewardAmountUSD": 1012.6234786543298,
                     "tokenPerVoteValue": 8.312574552741297e-05,
-                    "rewardPerVoteValue": 0.0005045732753513968,
+                    "rewardPerVoteValue": 0.0005037420178961226,
                     "apr": 0,
                     "totalVotes": 275148.93383009743,
                     "active": true,
@@ -4518,7 +4518,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.02,
@@ -4560,14 +4560,14 @@
                             "weight": 829831.1708886239
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 446.5488926389924,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 445.4614592594858,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "mkUSD+crvUSD ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 57161.76,
+                    "totalRewardAmountUSD": 57022.56,
                     "tokenPerVoteValue": 0.0192,
-                    "rewardPerVoteValue": 0.0091458816,
+                    "rewardPerVoteValue": 0.009123609599999999,
                     "apr": 0,
                     "totalVotes": 485375.3715368488,
                     "active": false,
@@ -4591,7 +4591,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 8,
                     "maxRewardPerVote": 0.02,
@@ -4645,7 +4645,7 @@
                     "rewardTokenDecimals": 18,
                     "gaugeWeight": {
                         "type": "BigNumber",
-                        "hex": "0x0475ce057ee73966fe4220"
+                        "hex": "0x047a2ab81f8d1ef900d720"
                     },
                     "weightPerBlacklists": [
                         {
@@ -4753,16 +4753,16 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 706.9078263902716,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 705.1863683834935,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "crvUSD+tBTC+wstETH ",
                     "rewardsAvailable": 30408.135730275397,
-                    "rewardsAvailableUSD": 14484.854638845225,
-                    "totalRewardAmountUSD": 152431.36,
-                    "tokenPerVoteValue": 0.005413891324784474,
-                    "rewardPerVoteValue": 0.0025788963047784345,
-                    "apr": 0.2815223488887927,
-                    "totalVotes": 5392020.582241501,
+                    "rewardsAvailableUSD": 14449.581201398105,
+                    "totalRewardAmountUSD": 152060.16,
+                    "tokenPerVoteValue": 0.005393286486223748,
+                    "rewardPerVoteValue": 0.0025628250188156902,
+                    "apr": 0.2804508972836349,
+                    "totalVotes": 5412620.0200979,
                     "active": true,
                     "end": 1698883200,
                     "start": 1694649600,
@@ -4784,7 +4784,7 @@
                         "decimals": 18,
                         "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x090185f2135308bad17527004364ebcc2d37e5f6.png",
-                        "price": 0.00049778
+                        "price": 0.00049741
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4.14,
@@ -4814,14 +4814,14 @@
                         "hex": "0x0f0860698c17d7068f3b00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 8.369328346468516,
-                    "maxRewardPerVoteUSD": 0.0019783768319999997,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 8.363107422590108,
+                    "maxRewardPerVoteUSD": 0.0019769063039999997,
                     "gaugeName": "MIM+3Crv ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 49.778,
+                    "totalRewardAmountUSD": 49.741,
                     "tokenPerVoteValue": 0.0034875655426926722,
-                    "rewardPerVoteValue": 1.7360403758415584e-06,
+                    "rewardPerVoteValue": 1.7347499765907622e-06,
                     "apr": 0,
                     "totalVotes": 18173444.718993556,
                     "active": false,
@@ -4845,7 +4845,7 @@
                         "decimals": 18,
                         "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
-                        "price": 0.281552
+                        "price": 0.281613
                     },
                     "numberOfPeriods": 10,
                     "maxRewardPerVote": 0.01,
@@ -4882,15 +4882,15 @@
                             "weight": 3858986.0966248363
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 397.14056596481134,
-                    "maxRewardPerVoteUSD": 0.0027028992,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 397.22660894985086,
+                    "maxRewardPerVoteUSD": 0.0027034847999999998,
                     "gaugeName": "CRV+sdCRV ",
                     "rewardsAvailable": 3179.524155269727,
-                    "rewardsAvailableUSD": 895.2013849645023,
-                    "totalRewardAmountUSD": 6785.389714519784,
+                    "rewardsAvailableUSD": 895.3953359379736,
+                    "totalRewardAmountUSD": 6786.85981159807,
                     "tokenPerVoteValue": 0.0028120117894608744,
-                    "rewardPerVoteValue": 0.0007917275433462882,
-                    "apr": 0.08642805733204924,
+                    "rewardPerVoteValue": 0.0007918990760654453,
+                    "apr": 0.0866578111303382,
                     "totalVotes": 1085466.7694048323,
                     "active": true,
                     "end": 1701302400,
@@ -4913,7 +4913,7 @@
                         "decimals": 18,
                         "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
-                        "price": 0.281552
+                        "price": 0.281613
                     },
                     "numberOfPeriods": 10,
                     "maxRewardPerVote": 0.01,
@@ -4950,15 +4950,15 @@
                             "weight": 138026.32834425644
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 151.1920412493974,
-                    "maxRewardPerVoteUSD": 0.0027028992,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 151.22479794981584,
+                    "maxRewardPerVoteUSD": 0.0027034847999999998,
                     "gaugeName": "YFI+sdYFI ",
                     "rewardsAvailable": 976.0527337218261,
-                    "rewardsAvailableUSD": 274.8095992848476,
-                    "totalRewardAmountUSD": 2102.804124692906,
+                    "rewardsAvailableUSD": 274.86913850160465,
+                    "totalRewardAmountUSD": 2103.2597103453118,
                     "tokenPerVoteValue": 0.008459599544730217,
-                    "rewardPerVoteValue": 0.002381817171017882,
-                    "apr": 0.26000842428839815,
+                    "rewardPerVoteValue": 0.002382333206590111,
+                    "apr": 0.2606996109806766,
                     "totalVotes": 110763.72821588711,
                     "active": true,
                     "end": 1701302400,
@@ -4981,7 +4981,7 @@
                         "decimals": 18,
                         "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
-                        "price": 0.281552
+                        "price": 0.281613
                     },
                     "numberOfPeriods": 10,
                     "maxRewardPerVote": 0.01,
@@ -5018,15 +5018,15 @@
                             "weight": 138026.32834425644
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.105583863185329,
-                    "maxRewardPerVoteUSD": 0.0027028992,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.106256707333672,
+                    "maxRewardPerVoteUSD": 0.0027034847999999998,
                     "gaugeName": "FXS+sdFXS ",
                     "rewardsAvailable": 268.09665343969726,
-                    "rewardsAvailableUSD": 75.48314896925365,
-                    "totalRewardAmountUSD": 574.0022196240878,
+                    "rewardsAvailableUSD": 75.49950286511347,
+                    "totalRewardAmountUSD": 574.1265807914639,
                     "tokenPerVoteValue": 0.0096,
-                    "rewardPerVoteValue": 0.0027028992,
-                    "apr": 0.2950589871270584,
+                    "rewardPerVoteValue": 0.0027034847999999998,
+                    "apr": 0.2958433495795349,
                     "totalVotes": 681.3541964842208,
                     "active": true,
                     "end": 1701302400,
@@ -5049,7 +5049,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.0004838,
@@ -5086,14 +5086,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 52.95920322907228,
-                    "maxRewardPerVoteUSD": 0.00281919936,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 52.87195577729456,
+                    "maxRewardPerVoteUSD": 0.0028145548799999994,
                     "gaugeName": "rETH+frxETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1691.0186367106355,
+                    "totalRewardAmountUSD": 1688.2327740471912,
                     "tokenPerVoteValue": 0.00046444799999999996,
-                    "rewardPerVoteValue": 0.00281919936,
+                    "rewardPerVoteValue": 0.0028145548799999994,
                     "apr": 0,
                     "totalVotes": 96479.22488035657,
                     "active": true,
@@ -5117,7 +5117,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 6,
                     "maxRewardPerVote": 0.00065,
@@ -5154,15 +5154,15 @@
                             "weight": 6259945.449609636
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 196.5039818187398,
-                    "maxRewardPerVoteUSD": 0.00378768,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 196.18025202991154,
+                    "maxRewardPerVoteUSD": 0.0037814399999999996,
                     "gaugeName": "ETH+frxETH ",
                     "rewardsAvailable": 3959.0300178809152,
-                    "rewardsAvailableUSD": 24031.312208537158,
-                    "totalRewardAmountUSD": 100877.33,
+                    "rewardsAvailableUSD": 23991.721908358344,
+                    "totalRewardAmountUSD": 100711.14,
                     "tokenPerVoteValue": 0.00036511901862957847,
-                    "rewardPerVoteValue": 0.0022162724430815415,
-                    "apr": 0.24193691805201273,
+                    "rewardPerVoteValue": 0.0022126212528952452,
+                    "apr": 0.24212796861569053,
                     "totalVotes": 10409397.934162596,
                     "active": true,
                     "end": 1698883200,
@@ -5185,7 +5185,7 @@
                         "decimals": 18,
                         "address": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x090185f2135308bad17527004364ebcc2d37e5f6.png",
-                        "price": 0.00049778
+                        "price": 0.00049741
                     },
                     "numberOfPeriods": 7,
                     "maxRewardPerVote": 5,
@@ -5222,15 +5222,15 @@
                             "weight": 12086033.293800782
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 32154.496568245046,
-                    "maxRewardPerVoteUSD": 0.0023893439999999994,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 32130.596122806797,
+                    "maxRewardPerVoteUSD": 0.002387568,
                     "gaugeName": "MIM+3Crv ",
                     "rewardsAvailable": 49148949.620437264,
-                    "rewardsAvailableUSD": 24465.36414206126,
-                    "totalRewardAmountUSD": 108516.04,
-                    "tokenPerVoteValue": 4.799999999999999,
-                    "rewardPerVoteValue": 0.0023893439999999994,
-                    "apr": 0.26083008220880527,
+                    "rewardsAvailableUSD": 24447.1790307017,
+                    "totalRewardAmountUSD": 108435.38,
+                    "tokenPerVoteValue": 4.8,
+                    "rewardPerVoteValue": 0.002387568,
+                    "apr": 0.261272456375161,
                     "totalVotes": 6087411.425192771,
                     "active": true,
                     "end": 1700092800,
@@ -5326,7 +5326,7 @@
                         "decimals": 18,
                         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
-                        "price": 1789.09
+                        "price": 1789.16
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 1.4e-06,
@@ -5363,14 +5363,14 @@
                             "weight": 805735.5529200522
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 113.34736882315677,
-                    "maxRewardPerVoteUSD": 0.0024045369599999997,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 113.35180365640588,
+                    "maxRewardPerVoteUSD": 0.0024046310400000002,
                     "gaugeName": "stETH+xETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3578.18,
+                    "totalRewardAmountUSD": 3578.32,
                     "tokenPerVoteValue": 1.344e-06,
-                    "rewardPerVoteValue": 0.0024045369599999997,
+                    "rewardPerVoteValue": 0.0024046310400000002,
                     "apr": 0,
                     "totalVotes": 711955.4553352006,
                     "active": true,
@@ -5394,7 +5394,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.02,
@@ -5556,14 +5556,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1652.550884620092,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1648.526601897882,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "ETH+stETH ",
                     "rewardsAvailable": 41159.827648849954,
-                    "rewardsAvailableUSD": 19606.40158087438,
-                    "totalRewardAmountUSD": 76215.68,
+                    "rewardsAvailableUSD": 19558.65618080171,
+                    "totalRewardAmountUSD": 76030.08,
                     "tokenPerVoteValue": 0.005260293262536901,
-                    "rewardPerVoteValue": 0.002505730175022928,
+                    "rewardPerVoteValue": 0.002499628234838385,
                     "apr": 0.2735352496519189,
                     "totalVotes": 7511641.950438847,
                     "active": true,
@@ -5587,7 +5587,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.02,
@@ -5749,15 +5749,15 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 563.9231268224752,
-                    "maxRewardPerVoteUSD": 0.0091458816,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 562.549864360758,
+                    "maxRewardPerVoteUSD": 0.009123609599999999,
                     "gaugeName": "CRV+sdCRV ",
                     "rewardsAvailable": 12535.963036275818,
-                    "rewardsAvailableUSD": 5971.480920403913,
-                    "totalRewardAmountUSD": 23817.4,
+                    "rewardsAvailableUSD": 5956.939203281833,
+                    "totalRewardAmountUSD": 23759.4,
                     "tokenPerVoteValue": 0.002433945058992338,
-                    "rewardPerVoteValue": 0.0011594048609608824,
-                    "apr": 0.1265651430676016,
+                    "rewardPerVoteValue": 0.0011565814846924512,
+                    "apr": 0.12656514306760158,
                     "totalVotes": 4944452.866029669,
                     "active": true,
                     "end": 1698883200,
@@ -5780,7 +5780,7 @@
                         "decimals": 18,
                         "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
-                        "price": 0.281552
+                        "price": 0.281613
                     },
                     "numberOfPeriods": 6,
                     "maxRewardPerVote": 0.01,
@@ -5817,15 +5817,15 @@
                             "weight": 138026.32834425644
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 70.388,
-                    "maxRewardPerVoteUSD": 0.0027028992,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 70.40325,
+                    "maxRewardPerVoteUSD": 0.0027034847999999998,
                     "gaugeName": "PENDLE+sdPENDLE ",
                     "rewardsAvailable": 250,
-                    "rewardsAvailableUSD": 70.388,
-                    "totalRewardAmountUSD": 422.32800000000003,
+                    "rewardsAvailableUSD": 70.40325,
+                    "totalRewardAmountUSD": 422.4195,
                     "tokenPerVoteValue": 0.0096,
-                    "rewardPerVoteValue": 0.0027028992,
-                    "apr": 0.2950589871270584,
+                    "rewardPerVoteValue": 0.0027034847999999998,
+                    "apr": 0.2958433495795349,
                     "totalVotes": 8860.370346041078,
                     "active": true,
                     "end": 1700092800,
@@ -5848,7 +5848,7 @@
                         "decimals": 18,
                         "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
-                        "price": 0.281552
+                        "price": 0.281613
                     },
                     "numberOfPeriods": 6,
                     "maxRewardPerVote": 0.01,
@@ -5885,15 +5885,15 @@
                             "weight": 138026.32834425644
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 12.603809623893694,
-                    "maxRewardPerVoteUSD": 0.0027028992,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 12.606540318000137,
+                    "maxRewardPerVoteUSD": 0.0027034847999999998,
                     "gaugeName": "FXN+sdFXN ",
                     "rewardsAvailable": 507.0886719615466,
-                    "rewardsAvailableUSD": 142.77182976811739,
-                    "totalRewardAmountUSD": 844.6560000000001,
+                    "rewardsAvailableUSD": 142.802762177107,
+                    "totalRewardAmountUSD": 844.839,
                     "tokenPerVoteValue": 0.0096,
-                    "rewardPerVoteValue": 0.0027028992,
-                    "apr": 0.2950589871270584,
+                    "rewardPerVoteValue": 0.0027034847999999998,
+                    "apr": 0.2958433495795349,
                     "totalVotes": 46016.99087384209,
                     "active": true,
                     "end": 1700092800,
@@ -5916,7 +5916,7 @@
                         "decimals": 18,
                         "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x9c354503c38481a7a7a51629142963f98ecc12d0.png",
-                        "price": 0.00484217
+                        "price": 0.0048463
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.85,
@@ -5953,15 +5953,15 @@
                             "weight": 4586494.685852605
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1011.0784233498244,
-                    "maxRewardPerVoteUSD": 0.003951210719999999,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1011.9407957755003,
+                    "maxRewardPerVoteUSD": 0.0039545807999999995,
                     "gaugeName": "ETH+OETH ",
                     "rewardsAvailable": 5002923.030067283,
-                    "rewardsAvailableUSD": 24225.003808500893,
-                    "totalRewardAmountUSD": 96843.40000048422,
+                    "rewardsAvailableUSD": 24245.66588061507,
+                    "totalRewardAmountUSD": 96926.00000048462,
                     "tokenPerVoteValue": 0.45803394784311385,
-                    "rewardPerVoteValue": 0.0022178782412274906,
-                    "apr": 0.24211221322190815,
+                    "rewardPerVoteValue": 0.0022197699214320825,
+                    "apr": 0.2429102500788494,
                     "totalVotes": 10485699.924338628,
                     "active": true,
                     "end": 1698883200,
@@ -5984,7 +5984,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0003913,
@@ -6021,14 +6021,14 @@
                             "weight": 278908.4606261719
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 61.24212304243842,
-                    "maxRewardPerVoteUSD": 0.00228018336,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 61.141229923752356,
+                    "maxRewardPerVoteUSD": 0.00227642688,
                     "gaugeName": "crvUSD+frxETH+Silo ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 145.68,
+                    "totalRewardAmountUSD": 145.44,
                     "tokenPerVoteValue": 3.056075807658229e-05,
-                    "rewardPerVoteValue": 0.0001855038015248545,
+                    "rewardPerVoteValue": 0.00018519819394408865,
                     "apr": 0,
                     "totalVotes": 376954.6672767266,
                     "active": true,
@@ -6052,7 +6052,7 @@
                         "decimals": 18,
                         "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x853d955acef822db058eb8505911ed77f175b99e.png",
-                        "price": 0.998897
+                        "price": 0.99902
                     },
                     "numberOfPeriods": 7,
                     "maxRewardPerVote": 0.002096,
@@ -6082,15 +6082,15 @@
                         "hex": "0x0accd21d8c1bd7b3601a"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.049944850000000006,
-                    "maxRewardPerVoteUSD": 0.00200994058752,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.049951,
+                    "maxRewardPerVoteUSD": 0.0020101880832,
                     "gaugeName": "renBTC+WBTC ",
                     "rewardsAvailable": 0.03333333333333333,
-                    "rewardsAvailableUSD": 0.033296566666666666,
-                    "totalRewardAmountUSD": 0.19977940000000002,
+                    "rewardsAvailableUSD": 0.033300666666666666,
+                    "totalRewardAmountUSD": 0.199804,
                     "tokenPerVoteValue": 6.274386776729868e-07,
-                    "rewardPerVoteValue": 6.267466128115134e-07,
-                    "apr": 6.841809741239324e-05,
+                    "rewardPerVoteValue": 6.268237877688672e-07,
+                    "apr": 6.859356078853232e-05,
                     "totalVotes": 51001.9410313067,
                     "active": true,
                     "end": 1701302400,
@@ -6151,7 +6151,7 @@
                     "totalRewardAmountUSD": 7.32340892960939e-05,
                     "tokenPerVoteValue": 9.411580165094802e-07,
                     "rewardPerVoteValue": 6.892485022278989e-10,
-                    "apr": 7.524104670503654e-08,
+                    "apr": 7.542472056502004e-08,
                     "totalVotes": 51001.9410313067,
                     "active": true,
                     "end": 1698278400,
@@ -6174,7 +6174,7 @@
                         "decimals": 6,
                         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-                        "price": 0.999944
+                        "price": 0.999826
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0024,
@@ -6204,15 +6204,15 @@
                         "hex": "0x00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 499.97200000000004,
-                    "maxRewardPerVoteUSD": 0.002303870976,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 499.913,
+                    "maxRewardPerVoteUSD": 0.0023035991039999995,
                     "gaugeName": "crvUSD+USDM ",
                     "rewardsAvailable": 500,
-                    "rewardsAvailableUSD": 499.97200000000004,
-                    "totalRewardAmountUSD": 999.9440000000001,
+                    "rewardsAvailableUSD": 499.913,
+                    "totalRewardAmountUSD": 999.826,
                     "tokenPerVoteValue": 0.0023039999999999996,
-                    "rewardPerVoteValue": 0.002303870976,
-                    "apr": 0.25149951453979025,
+                    "rewardPerVoteValue": 0.0023035991039999995,
+                    "apr": 0.2520837087805247,
                     "totalVotes": 0,
                     "active": true,
                     "end": 1698278400,
@@ -6290,7 +6290,7 @@
                     "totalRewardAmountUSD": 4264.29,
                     "tokenPerVoteValue": 0.72,
                     "rewardPerVoteValue": 0.0030702887999999994,
-                    "apr": 0.33516466448898696,
+                    "apr": 0.3359828480517184,
                     "totalVotes": 22100.665198960585,
                     "active": true,
                     "end": 1700697600,
@@ -6313,7 +6313,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0069144,
@@ -6343,14 +6343,14 @@
                         "hex": "0x1d2a98de8c7886b0c800"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.7634799999999995,
-                    "maxRewardPerVoteUSD": 0.003227787398976,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.75188,
+                    "maxRewardPerVoteUSD": 0.003219927109056,
                     "gaugeName": "USDT+WBTC+WETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 4.7634799999999995,
+                    "totalRewardAmountUSD": 4.75188,
                     "tokenPerVoteValue": 7.115164011790844e-05,
-                    "rewardPerVoteValue": 3.389294146688545e-05,
+                    "rewardPerVoteValue": 3.3810405564348675e-05,
                     "apr": 0,
                     "totalVotes": 137734.4066505034,
                     "active": false,
@@ -6435,7 +6435,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.01,
@@ -6465,14 +6465,14 @@
                         "hex": "0x3f9aad3f8282f5b69600"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.580469033483284,
-                    "maxRewardPerVoteUSD": 0.004668210399999999,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.5790554785217,
+                    "maxRewardPerVoteUSD": 0.0046568424,
                     "gaugeName": "poly-MATIC+crvUSDBTCETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 11432.351999999999,
-                    "tokenPerVoteValue": 0.009799999999999998,
-                    "rewardPerVoteValue": 0.004668210399999999,
+                    "totalRewardAmountUSD": 11404.512,
+                    "tokenPerVoteValue": 0.0098,
+                    "rewardPerVoteValue": 0.0046568424,
                     "apr": 0,
                     "totalVotes": 300362.37084832997,
                     "active": false,
@@ -6496,7 +6496,7 @@
                         "decimals": 6,
                         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-                        "price": 0.999944
+                        "price": 0.999826
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.0078,
@@ -6526,14 +6526,14 @@
                         "hex": "0x03179502e463685dbf80"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 93.644641606384,
-                    "maxRewardPerVoteUSD": 0.007643571936,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 93.633590919836,
+                    "maxRewardPerVoteUSD": 0.007642669944,
                     "gaugeName": "ftm-axlUSDC+USDC ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3999.7760000000003,
+                    "totalRewardAmountUSD": 3999.304,
                     "tokenPerVoteValue": 0.007644,
-                    "rewardPerVoteValue": 0.007643571936,
+                    "rewardPerVoteValue": 0.007642669944,
                     "apr": 0,
                     "totalVotes": 14602.111957881463,
                     "active": false,
@@ -6557,7 +6557,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0069118,
@@ -6587,14 +6587,14 @@
                         "hex": "0x03da7aeeec663ff72e00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.687283764417277,
-                    "maxRewardPerVoteUSD": 0.003226573664272,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.675869317066341,
+                    "maxRewardPerVoteUSD": 0.003218716330032,
                     "gaugeName": "CRV+sdCRV ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 4.7634799999999995,
+                    "totalRewardAmountUSD": 4.75188,
                     "tokenPerVoteValue": 0.00026927515524537013,
-                    "rewardPerVoteValue": 0.00012826868165082158,
+                    "rewardPerVoteValue": 0.00012795632247073694,
                     "apr": 0,
                     "totalVotes": 18197.347934118607,
                     "active": false,
@@ -6618,7 +6618,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.01,
@@ -6680,14 +6680,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 36.46246128923926,
-                    "maxRewardPerVoteUSD": 0.004668210399999999,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 36.37366810632358,
+                    "maxRewardPerVoteUSD": 0.0046568424,
                     "gaugeName": "ETH+MATIC ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 76215.68,
-                    "tokenPerVoteValue": 0.009799999999999998,
-                    "rewardPerVoteValue": 0.004668210399999999,
+                    "totalRewardAmountUSD": 76030.08,
+                    "tokenPerVoteValue": 0.0098,
+                    "rewardPerVoteValue": 0.0046568424,
                     "apr": 0,
                     "totalVotes": 18812.954039111635,
                     "active": false,
@@ -6711,7 +6711,7 @@
                         "decimals": 18,
                         "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x2ebd53d035150f328bd754d6dc66b99b0edb89aa.png",
-                        "price": 0.819834
+                        "price": 0.823148
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.00375,
@@ -6758,14 +6758,14 @@
                             "weight": 1133.8863017845401
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6.761580914999999e-14,
-                    "maxRewardPerVoteUSD": 0.0030128899499999996,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6.788913129999999e-14,
+                    "maxRewardPerVoteUSD": 0.0030250688999999996,
                     "gaugeName": "ETH+msETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 819.834,
-                    "tokenPerVoteValue": 0.003675,
-                    "rewardPerVoteValue": 0.0030128899499999996,
+                    "totalRewardAmountUSD": 823.148,
+                    "tokenPerVoteValue": 0.0036749999999999994,
+                    "rewardPerVoteValue": 0.0030250688999999996,
                     "apr": 0,
                     "totalVotes": 54.7303651366991,
                     "active": false,
@@ -6789,7 +6789,7 @@
                         "decimals": 18,
                         "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xd533a949740bb3306d119cc777fa900ba034cd52.png",
-                        "price": 0.476348
+                        "price": 0.475188
                     },
                     "numberOfPeriods": 5,
                     "maxRewardPerVote": 0.007,
@@ -6819,14 +6819,14 @@
                         "hex": "0x00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.98012623772e-13,
-                    "maxRewardPerVoteUSD": 0.00326774728,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.9753042453199999e-13,
+                    "maxRewardPerVoteUSD": 0.0032597896800000002,
                     "gaugeName": "UZD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 6935.62688,
-                    "tokenPerVoteValue": 0.00686,
-                    "rewardPerVoteValue": 0.00326774728,
+                    "totalRewardAmountUSD": 6918.73728,
+                    "tokenPerVoteValue": 0.006860000000000001,
+                    "rewardPerVoteValue": 0.0032597896800000002,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -6850,7 +6850,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 1,
@@ -6887,14 +6887,14 @@
                             "weight": 5826087.844191147
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5.196475907556262,
-                    "maxRewardPerVoteUSD": 5.9486,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5.187914991728326,
+                    "maxRewardPerVoteUSD": 5.9388,
                     "gaugeName": "eUSD+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1464.2661,
+                    "totalRewardAmountUSD": 1461.8537999999999,
                     "tokenPerVoteValue": 0.662360594625739,
-                    "rewardPerVoteValue": 4.020528809378236,
+                    "rewardPerVoteValue": 4.013905203431978,
                     "apr": 0,
                     "totalVotes": 338.352276217617,
                     "active": false,
@@ -6918,7 +6918,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 1,
@@ -6955,14 +6955,14 @@
                             "weight": 402867.7764600261
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.28644545e-12,
-                    "maxRewardPerVoteUSD": 5.9486,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.2843260999999998e-12,
+                    "maxRewardPerVoteUSD": 5.9388,
                     "gaugeName": "SDT+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 229.6281,
+                    "totalRewardAmountUSD": 229.24979999999996,
                     "tokenPerVoteValue": 0.98,
-                    "rewardPerVoteValue": 5.9486,
+                    "rewardPerVoteValue": 5.9388,
                     "apr": 0,
                     "totalVotes": 23.396699951218196,
                     "active": false,
@@ -6986,7 +6986,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 1,
@@ -7023,14 +7023,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.47640200094706414,
-                    "maxRewardPerVoteUSD": 5.9486,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.4756171541580244,
+                    "maxRewardPerVoteUSD": 5.9388,
                     "gaugeName": "PUSd+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 159.5803,
+                    "totalRewardAmountUSD": 159.3174,
                     "tokenPerVoteValue": 0.98,
-                    "rewardPerVoteValue": 5.9486,
+                    "rewardPerVoteValue": 5.9388,
                     "apr": 0,
                     "totalVotes": 1.744581535461475,
                     "active": false,
@@ -7240,7 +7240,7 @@
                         "decimals": 18,
                         "address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d.png",
-                        "price": 0.279915
+                        "price": 0.282917
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.01,
@@ -7270,14 +7270,14 @@
                         "hex": "0xa64ebf82fb14378da800"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 968.8848715725547,
-                    "maxRewardPerVoteUSD": 0.0027431670000000003,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 979.275855923021,
+                    "maxRewardPerVoteUSD": 0.0027725866,
                     "gaugeName": "ETH+rETH ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 5598.3,
+                    "totalRewardAmountUSD": 5658.339999999999,
                     "tokenPerVoteValue": 0.008452290330942316,
-                    "rewardPerVoteValue": 0.002365922847985719,
+                    "rewardPerVoteValue": 0.002391296623559207,
                     "apr": 0,
                     "totalVotes": 785365.482062383,
                     "active": false,
@@ -7401,7 +7401,7 @@
                         "decimals": 18,
                         "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x31429d1856ad1377a8a0079410b297e1a9e214c2.png",
-                        "price": 0.03516269
+                        "price": 0.03520237
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0003,
@@ -7431,14 +7431,14 @@
                         "hex": "0xccf03c2ba5348e449700"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 8.54788971489799,
-                    "maxRewardPerVoteUSD": 1.033783086e-05,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 8.557535742090081,
+                    "maxRewardPerVoteUSD": 1.0349496779999999e-05,
                     "gaugeName": "",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 351.62690000000003,
+                    "totalRewardAmountUSD": 352.02369999999996,
                     "tokenPerVoteValue": 0.000294,
-                    "rewardPerVoteValue": 1.033783086e-05,
+                    "rewardPerVoteValue": 1.0349496779999999e-05,
                     "apr": 0,
                     "totalVotes": 967794.3168238093,
                     "active": false,
@@ -7462,7 +7462,7 @@
                         "decimals": 18,
                         "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x31429d1856ad1377a8a0079410b297e1a9e214c2.png",
-                        "price": 0.03516269
+                        "price": 0.03520237
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0024921,
@@ -7492,14 +7492,14 @@
                         "hex": "0x01052139f8eedd33e25280"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.5162690000000003,
-                    "maxRewardPerVoteUSD": 8.587636095402001e-05,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.520237,
+                    "maxRewardPerVoteUSD": 8.597326975145999e-05,
                     "gaugeName": "",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3.5162690000000003,
+                    "totalRewardAmountUSD": 3.520237,
                     "tokenPerVoteValue": 3.973563637838057e-05,
-                    "rewardPerVoteValue": 1.397211863925719e-06,
+                    "rewardPerVoteValue": 1.3987885739772128e-06,
                     "apr": 0,
                     "totalVotes": 1233150.571934698,
                     "active": false,
@@ -7564,7 +7564,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4.63,
@@ -7601,14 +7601,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2666.791347254165,
-                    "maxRewardPerVoteUSD": 0.10137826609400001,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2657.915892260732,
+                    "maxRewardPerVoteUSD": 0.10104086502999998,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3351.4215000000004,
+                    "totalRewardAmountUSD": 3340.2675,
                     "tokenPerVoteValue": 4.5374,
-                    "rewardPerVoteValue": 0.10137826609400001,
+                    "rewardPerVoteValue": 0.10104086502999998,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -7632,7 +7632,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4.63,
@@ -7669,14 +7669,14 @@
                             "weight": 24666.263764089512
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 846.1443738163291,
-                    "maxRewardPerVoteUSD": 0.10137826609400001,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 843.3282868676872,
+                    "maxRewardPerVoteUSD": 0.10104086502999998,
                     "gaugeName": "ankrETH/wstETH-BPT",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1117.1405,
+                    "totalRewardAmountUSD": 1113.4225,
                     "tokenPerVoteValue": 4.5374,
-                    "rewardPerVoteValue": 0.10137826609400001,
+                    "rewardPerVoteValue": 0.10104086502999998,
                     "apr": 0,
                     "totalVotes": 8.07617460822776,
                     "active": false,
@@ -7700,7 +7700,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4.37,
@@ -7737,14 +7737,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 979.3643025969379,
-                    "maxRewardPerVoteUSD": 0.095685318106,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 976.1048410725767,
+                    "maxRewardPerVoteUSD": 0.09536686397,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 2234.281,
-                    "tokenPerVoteValue": 4.2826,
-                    "rewardPerVoteValue": 0.095685318106,
+                    "totalRewardAmountUSD": 2226.845,
+                    "tokenPerVoteValue": 4.2825999999999995,
+                    "rewardPerVoteValue": 0.09536686397,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -7768,7 +7768,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4.37,
@@ -7805,14 +7805,14 @@
                             "weight": 24666.263764089512
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 55.62911611035849,
-                    "maxRewardPerVoteUSD": 0.095685318106,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 55.44397462305378,
+                    "maxRewardPerVoteUSD": 0.09536686397,
                     "gaugeName": "ankrETH/wstETH-BPT",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1117.1405,
-                    "tokenPerVoteValue": 4.2826,
-                    "rewardPerVoteValue": 0.095685318106,
+                    "totalRewardAmountUSD": 1113.4225,
+                    "tokenPerVoteValue": 4.2825999999999995,
+                    "rewardPerVoteValue": 0.09536686397,
                     "apr": 0,
                     "totalVotes": 8.07617460822776,
                     "active": false,
@@ -7836,7 +7836,7 @@
                         "decimals": 18,
                         "address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8.png",
-                        "price": 0.055743
+                        "price": 0.055686
                     },
                     "numberOfPeriods": 8,
                     "maxRewardPerVote": 1.1,
@@ -7873,15 +7873,15 @@
                             "weight": 17574.712931913782
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.327589585106556,
-                    "maxRewardPerVoteUSD": 0.060090954,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.323164408737306,
+                    "maxRewardPerVoteUSD": 0.060029508,
                     "gaugeName": "80Silo-20WETH",
                     "rewardsAvailable": 14490.317336572363,
-                    "rewardsAvailableUSD": 807.7337592925533,
-                    "totalRewardAmountUSD": 7625.530914,
+                    "rewardsAvailableUSD": 806.9078112043686,
+                    "totalRewardAmountUSD": 7617.733428,
                     "tokenPerVoteValue": 0.5309197663229863,
-                    "rewardPerVoteValue": 0.029595060534142226,
-                    "apr": 0.1601397656373981,
+                    "rewardPerVoteValue": 0.029564798107461817,
+                    "apr": 0.1599760147334042,
                     "totalVotes": 26747.044336386876,
                     "active": true,
                     "end": 1698883200,
@@ -7904,7 +7904,7 @@
                         "decimals": 18,
                         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xba100000625a3754423978a60c9317c58a424e3d.png",
-                        "price": 3.4
+                        "price": 3.39
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.024231,
@@ -7934,14 +7934,14 @@
                         "hex": "0x0194597c98491d572f00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.29249628785032e-05,
-                    "maxRewardPerVoteUSD": 0.080737692,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.288694828180172e-05,
+                    "maxRewardPerVoteUSD": 0.0805002282,
                     "gaugeName": "B-baoETH-ETH-BPT",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 680,
+                    "totalRewardAmountUSD": 678,
                     "tokenPerVoteValue": 0.013140252593895054,
-                    "rewardPerVoteValue": 0.04467685881924319,
+                    "rewardPerVoteValue": 0.04454545629330424,
                     "apr": 0,
                     "totalVotes": 7458.932801984939,
                     "active": false,
@@ -7965,7 +7965,7 @@
                         "decimals": 18,
                         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xba100000625a3754423978a60c9317c58a424e3d.png",
-                        "price": 3.4
+                        "price": 3.39
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0169788,
@@ -7995,14 +7995,14 @@
                         "hex": "0x032a8210dfe291448180"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 156.67324636985344,
-                    "maxRewardPerVoteUSD": 0.0565733616,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 156.21244270405978,
+                    "maxRewardPerVoteUSD": 0.056406969359999996,
                     "gaugeName": "B-baoUSD-LUSD-BPT",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 1020,
+                    "totalRewardAmountUSD": 1017,
                     "tokenPerVoteValue": 0.012190077382065838,
-                    "rewardPerVoteValue": 0.04144626309902385,
+                    "rewardPerVoteValue": 0.041324362325203194,
                     "apr": 0,
                     "totalVotes": 14951.234936693487,
                     "active": true,
@@ -8026,7 +8026,7 @@
                         "decimals": 18,
                         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xba100000625a3754423978a60c9317c58a424e3d.png",
-                        "price": 3.4
+                        "price": 3.39
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0169788,
@@ -8056,14 +8056,14 @@
                         "hex": "0x0194597c98491d572f00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.2565009686327599e-05,
-                    "maxRewardPerVoteUSD": 0.0565733616,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.2528053775485461e-05,
+                    "maxRewardPerVoteUSD": 0.056406969359999996,
                     "gaugeName": "B-baoETH-ETH-BPT",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 680,
+                    "totalRewardAmountUSD": 678,
                     "tokenPerVoteValue": 0.013140252491215537,
-                    "rewardPerVoteValue": 0.04467685847013282,
+                    "rewardPerVoteValue": 0.04454545594522067,
                     "apr": 0,
                     "totalVotes": 7458.932801984939,
                     "active": true,
@@ -8087,7 +8087,7 @@
                         "decimals": 18,
                         "address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f.png",
-                        "price": 0.281552
+                        "price": 0.281613
                     },
                     "numberOfPeriods": 6,
                     "maxRewardPerVote": 0.2,
@@ -8117,15 +8117,15 @@
                         "hex": "0x039eff2c65071c542080"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2.772152200389302,
-                    "maxRewardPerVoteUSD": 0.05518419200000001,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2.7727528044845444,
+                    "maxRewardPerVoteUSD": 0.055196148,
                     "gaugeName": "B-sdBAL-STABLE",
                     "rewardsAvailable": 1110.1448048009663,
-                    "rewardsAvailableUSD": 312.5634900813217,
-                    "totalRewardAmountUSD": 1872.0392480000003,
+                    "rewardsAvailableUSD": 312.6312089144145,
+                    "totalRewardAmountUSD": 1872.444837,
                     "tokenPerVoteValue": 0.06362233384239456,
-                    "rewardPerVoteValue": 0.017912995337993873,
-                    "apr": 0.09692775833253711,
+                    "rewardPerVoteValue": 0.01791687630035826,
+                    "apr": 0.0969487583370062,
                     "totalVotes": 17100.072194714907,
                     "active": true,
                     "end": 1700092800,
@@ -8148,7 +8148,7 @@
                         "decimals": 18,
                         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xba100000625a3754423978a60c9317c58a424e3d.png",
-                        "price": 3.4
+                        "price": 3.39
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.031,
@@ -8178,15 +8178,15 @@
                         "hex": "0xcb34c0d84fd9c71380"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 57.8,
-                    "maxRewardPerVoteUSD": 0.103292,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 57.63,
+                    "maxRewardPerVoteUSD": 0.1029882,
                     "gaugeName": "2CHF (VCHF)",
                     "rewardsAvailable": 17,
-                    "rewardsAvailableUSD": 57.8,
-                    "totalRewardAmountUSD": 115.6,
+                    "rewardsAvailableUSD": 57.63,
+                    "totalRewardAmountUSD": 115.26,
                     "tokenPerVoteValue": 0.004445037353255069,
-                    "rewardPerVoteValue": 0.015113127001067234,
-                    "apr": 0.08177758627008286,
+                    "rewardPerVoteValue": 0.015068676627534685,
+                    "apr": 0.0815370639575238,
                     "totalVotes": 3748.4903228860076,
                     "active": true,
                     "end": 1698883200,
@@ -8209,7 +8209,7 @@
                         "decimals": 18,
                         "address": "0xba100000625a3754423978a60c9317c58a424e3D",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xba100000625a3754423978a60c9317c58a424e3d.png",
-                        "price": 3.4
+                        "price": 3.39
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0148419,
@@ -8239,14 +8239,14 @@
                         "hex": "0xffd1f3085000"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.4,
-                    "maxRewardPerVoteUSD": 0.0494532108,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.39,
+                    "maxRewardPerVoteUSD": 0.04930776018,
                     "gaugeName": "",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3.4,
-                    "tokenPerVoteValue": 0.014545062000000001,
-                    "rewardPerVoteValue": 0.0494532108,
+                    "totalRewardAmountUSD": 3.39,
+                    "tokenPerVoteValue": 0.014545062,
+                    "rewardPerVoteValue": 0.04930776018,
                     "apr": 0,
                     "totalVotes": 0.000281277190656,
                     "active": false,
@@ -8270,7 +8270,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 2.7,
@@ -8307,14 +8307,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 782.1267682780913,
-                    "maxRewardPerVoteUSD": 0.05911907526000001,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 779.5237408840813,
+                    "maxRewardPerVoteUSD": 0.0589223187,
                     "gaugeName": "",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 893.7124,
-                    "tokenPerVoteValue": 2.6460000000000004,
-                    "rewardPerVoteValue": 0.05911907526000001,
+                    "totalRewardAmountUSD": 890.7379999999999,
+                    "tokenPerVoteValue": 2.646,
+                    "rewardPerVoteValue": 0.0589223187,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -8338,7 +8338,7 @@
                         "decimals": 18,
                         "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
-                        "price": 1.84
+                        "price": 1.83
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.045,
@@ -8375,14 +8375,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 9034.555405783172,
-                    "maxRewardPerVoteUSD": 0.081144,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 8985.454561186525,
+                    "maxRewardPerVoteUSD": 0.08070300000000001,
                     "gaugeName": "",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 36800,
-                    "tokenPerVoteValue": 0.04409999999999999,
-                    "rewardPerVoteValue": 0.081144,
+                    "totalRewardAmountUSD": 36600,
+                    "tokenPerVoteValue": 0.04410000000000001,
+                    "rewardPerVoteValue": 0.08070300000000001,
                     "apr": 0,
                     "totalVotes": 5489.31676359087,
                     "active": false,
@@ -8406,7 +8406,7 @@
                         "decimals": 18,
                         "address": "0x808507121B80c02388fAd14726482e061B8da827",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x808507121b80c02388fad14726482e061b8da827.png",
-                        "price": 0.846236
+                        "price": 0.850432
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.5970281,
@@ -8443,14 +8443,14 @@
                             "weight": 4933.252752817884
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 18.211038819308992,
-                    "maxRewardPerVoteUSD": 0.4951221378069679,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 18.301336938138515,
+                    "maxRewardPerVoteUSD": 0.4975771651164159,
                     "gaugeName": "50PENDLE-50WETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 11720.3686,
+                    "totalRewardAmountUSD": 11778.483199999999,
                     "tokenPerVoteValue": 0.5850875379999999,
-                    "rewardPerVoteValue": 0.4951221378069679,
+                    "rewardPerVoteValue": 0.4975771651164159,
                     "apr": 0,
                     "totalVotes": 38.8092956677973,
                     "active": false,
@@ -8474,7 +8474,7 @@
                         "decimals": 18,
                         "address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6123b0049f904d730db3c36a31167d9d4121fa6b.png",
-                        "price": 0.172992
+                        "price": 0.172788
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.545,
@@ -8511,14 +8511,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 231.43107194168567,
-                    "maxRewardPerVoteUSD": 0.09239502720000001,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 231.15815794175444,
+                    "maxRewardPerVoteUSD": 0.09228607080000001,
                     "gaugeName": "50RBN-50USDC",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 2162.4,
+                    "totalRewardAmountUSD": 2159.85,
                     "tokenPerVoteValue": 0.5341,
-                    "rewardPerVoteValue": 0.09239502720000001,
+                    "rewardPerVoteValue": 0.09228607080000001,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -8542,7 +8542,7 @@
                         "decimals": 18,
                         "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png",
-                        "price": 1.84
+                        "price": 1.83
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.045,
@@ -8579,14 +8579,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5774.37255573874,
-                    "maxRewardPerVoteUSD": 0.081144,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5742.990096196681,
+                    "maxRewardPerVoteUSD": 0.08070300000000001,
                     "gaugeName": "",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 36800,
-                    "tokenPerVoteValue": 0.04409999999999999,
-                    "rewardPerVoteValue": 0.081144,
+                    "totalRewardAmountUSD": 36600,
+                    "tokenPerVoteValue": 0.04410000000000001,
+                    "rewardPerVoteValue": 0.08070300000000001,
                     "apr": 0,
                     "totalVotes": 5489.31676359087,
                     "active": false,
@@ -8610,7 +8610,7 @@
                         "decimals": 18,
                         "address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6123b0049f904d730db3c36a31167d9d4121fa6b.png",
-                        "price": 0.172992
+                        "price": 0.172788
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.5557551,
@@ -8647,14 +8647,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 229.90265113780575,
-                    "maxRewardPerVoteUSD": 0.094218362534016,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 229.63153952089795,
+                    "maxRewardPerVoteUSD": 0.094107255974424,
                     "gaugeName": "50RBN-50USDC",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 8649.6,
+                    "totalRewardAmountUSD": 8639.4,
                     "tokenPerVoteValue": 0.544639998,
-                    "rewardPerVoteValue": 0.094218362534016,
+                    "rewardPerVoteValue": 0.094107255974424,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -8678,7 +8678,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 5.42,
@@ -8715,14 +8715,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.37015048044e-15,
-                    "maxRewardPerVoteUSD": 0.118676069596,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1.3655904278e-15,
+                    "maxRewardPerVoteUSD": 0.11828109901999999,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 8937.124,
+                    "totalRewardAmountUSD": 8907.38,
                     "tokenPerVoteValue": 5.311599999999999,
-                    "rewardPerVoteValue": 0.118676069596,
+                    "rewardPerVoteValue": 0.11828109901999999,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -8746,7 +8746,7 @@
                         "decimals": 18,
                         "address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6123b0049f904d730db3c36a31167d9d4121fa6b.png",
-                        "price": 0.172992
+                        "price": 0.172788
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.76278350515,
@@ -8783,14 +8783,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.0861073889381056,
-                    "maxRewardPerVoteUSD": 0.1293163352404506,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.08600584720586726,
+                    "maxRewardPerVoteUSD": 0.12916383956210103,
                     "gaugeName": "50RBN-50USDC",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 8649.6,
-                    "tokenPerVoteValue": 0.7475278350469999,
-                    "rewardPerVoteValue": 0.1293163352404506,
+                    "totalRewardAmountUSD": 8639.4,
+                    "tokenPerVoteValue": 0.747527835047,
+                    "rewardPerVoteValue": 0.12916383956210103,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -8814,7 +8814,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 5.6,
@@ -8851,14 +8851,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.0406330129000003e-16,
-                    "maxRewardPerVoteUSD": 0.12261734128,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 3.0305133604999997e-16,
+                    "maxRewardPerVoteUSD": 0.12220925359999997,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 13405.686000000002,
-                    "tokenPerVoteValue": 5.4879999999999995,
-                    "rewardPerVoteValue": 0.12261734128,
+                    "totalRewardAmountUSD": 13361.07,
+                    "tokenPerVoteValue": 5.487999999999999,
+                    "rewardPerVoteValue": 0.12220925359999997,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -8882,7 +8882,7 @@
                         "decimals": 6,
                         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-                        "price": 0.999944
+                        "price": 0.999826
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.071,
@@ -8912,14 +8912,14 @@
                         "hex": "0x0a71816536b202f4f180"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.35357419873600004,
-                    "maxRewardPerVoteUSD": 0.06957610351999999,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.353532474644,
+                    "maxRewardPerVoteUSD": 0.06956789307999998,
                     "gaugeName": "80D2D-20USDC",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 5499.692,
+                    "totalRewardAmountUSD": 5499.043,
                     "tokenPerVoteValue": 0.054653926397793866,
-                    "rewardPerVoteValue": 0.05465086577791559,
+                    "rewardPerVoteValue": 0.05464441661460065,
                     "apr": 0,
                     "totalVotes": 49317.470827767356,
                     "active": false,
@@ -8943,7 +8943,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 5.26,
@@ -8980,14 +8980,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 45.3963505929698,
-                    "maxRewardPerVoteUSD": 0.115172716988,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 45.24526518204372,
+                    "maxRewardPerVoteUSD": 0.11478940605999999,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 6702.865342810001,
+                    "totalRewardAmountUSD": 6680.557268449999,
                     "tokenPerVoteValue": 5.1548,
-                    "rewardPerVoteValue": 0.115172716988,
+                    "rewardPerVoteValue": 0.11478940605999999,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -9011,7 +9011,7 @@
                         "decimals": 18,
                         "address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6123b0049f904d730db3c36a31167d9d4121fa6b.png",
-                        "price": 0.172992
+                        "price": 0.172788
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.6488937,
@@ -9048,14 +9048,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.06321740840720684,
-                    "maxRewardPerVoteUSD": 0.110008350571392,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.06314285957653795,
+                    "maxRewardPerVoteUSD": 0.10987862374288801,
                     "gaugeName": "50RBN-50USDC",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 8649.6,
-                    "tokenPerVoteValue": 0.635915826,
-                    "rewardPerVoteValue": 0.110008350571392,
+                    "totalRewardAmountUSD": 8639.4,
+                    "tokenPerVoteValue": 0.6359158260000001,
+                    "rewardPerVoteValue": 0.10987862374288801,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -9079,7 +9079,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4.5,
@@ -9116,14 +9116,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 27.42156278453948,
-                    "maxRewardPerVoteUSD": 0.0985317921,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 27.330299984172896,
+                    "maxRewardPerVoteUSD": 0.09820386449999999,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 5585.7025,
+                    "totalRewardAmountUSD": 5567.112499999999,
                     "tokenPerVoteValue": 4.41,
-                    "rewardPerVoteValue": 0.0985317921,
+                    "rewardPerVoteValue": 0.09820386449999999,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -9147,7 +9147,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4,
@@ -9184,14 +9184,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.942509533139384,
-                    "maxRewardPerVoteUSD": 0.0875838152,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4.926060169389512,
+                    "maxRewardPerVoteUSD": 0.08729232399999999,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 4468.562,
+                    "totalRewardAmountUSD": 4453.69,
                     "tokenPerVoteValue": 3.92,
-                    "rewardPerVoteValue": 0.0875838152,
+                    "rewardPerVoteValue": 0.08729232399999999,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -9215,7 +9215,7 @@
                         "decimals": 18,
                         "address": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6123b0049f904d730db3c36a31167d9d4121fa6b.png",
-                        "price": 0.172992
+                        "price": 0.172788
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.4808311,
@@ -9252,14 +9252,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 198.7099490315852,
-                    "maxRewardPerVoteUSD": 0.08151633497817601,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 198.47562126150078,
+                    "maxRewardPerVoteUSD": 0.081420207224664,
                     "gaugeName": "50RBN-50USDC",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 8649.6,
+                    "totalRewardAmountUSD": 8639.4,
                     "tokenPerVoteValue": 0.47121447800000005,
-                    "rewardPerVoteValue": 0.08151633497817601,
+                    "rewardPerVoteValue": 0.081420207224664,
                     "apr": 0,
                     "totalVotes": 0,
                     "active": false,
@@ -9283,7 +9283,7 @@
                         "decimals": 18,
                         "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x8290333cef9e6d528dd5618fb97a76f268f3edd4.png",
-                        "price": 0.02234281
+                        "price": 0.02226845
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4.6,
@@ -9320,14 +9320,14 @@
                             "weight": 64132.28578663277
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7.049082090769504,
-                    "maxRewardPerVoteUSD": 0.10072138748,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7.0256217585968885,
+                    "maxRewardPerVoteUSD": 0.10038617259999998,
                     "gaugeName": "ankrETH/wstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 3351.4215000000004,
+                    "totalRewardAmountUSD": 3340.2675,
                     "tokenPerVoteValue": 4.507999999999999,
-                    "rewardPerVoteValue": 0.10072138748,
+                    "rewardPerVoteValue": 0.10038617259999998,
                     "apr": 0,
                     "totalVotes": 2646.7273450059793,
                     "active": false,
@@ -9390,7 +9390,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 20,
                     "maxRewardPerVote": 0.00048,
@@ -9427,14 +9427,14 @@
                             "weight": 48682.827871522655
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2253.460338926646,
-                    "maxRewardPerVoteUSD": 0.0028553280000000003,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2249.7478836730597,
+                    "maxRewardPerVoteUSD": 0.002850624,
                     "gaugeName": "Convex stkcvxCOILFRAXBP",
                     "rewardsAvailable": 849.6923846809806,
-                    "rewardsAvailableUSD": 5157.632775013552,
-                    "totalRewardAmountUSD": 71935.57,
+                    "rewardsAvailableUSD": 5149.135851166742,
+                    "totalRewardAmountUSD": 71817.06,
                     "tokenPerVoteValue": 0.00027982934546546314,
-                    "rewardPerVoteValue": 0.0016985641269753613,
+                    "rewardPerVoteValue": 0.0016957658335207066,
                     "apr": 0.05820450385681633,
                     "totalVotes": 2975737.3908944335,
                     "active": true,
@@ -9458,7 +9458,7 @@
                         "decimals": 18,
                         "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x1b40183efb4dd766f11bda7a7c3ad8982e998421.png",
-                        "price": 0.44052
+                        "price": 0.440539
                     },
                     "numberOfPeriods": 13,
                     "maxRewardPerVote": 0.01125,
@@ -9488,15 +9488,15 @@
                         "hex": "0x431af973837a071bdbe8"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 276.47700816415573,
-                    "maxRewardPerVoteUSD": 0.004856733,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 276.4889328512417,
+                    "maxRewardPerVoteUSD": 0.004856942475,
                     "gaugeName": "Vesper Orbit FRAX",
                     "rewardsAvailable": 1408.2614341164451,
-                    "rewardsAvailableUSD": 620.3673269569764,
-                    "totalRewardAmountUSD": 5726.76,
+                    "rewardsAvailableUSD": 620.3940839242247,
+                    "totalRewardAmountUSD": 5727.0070000000005,
                     "tokenPerVoteValue": 0.004355044574352835,
-                    "rewardPerVoteValue": 0.001918484235893911,
-                    "apr": 0.06574048122997256,
+                    "rewardPerVoteValue": 0.0019185669817408236,
+                    "apr": 0.06585180399374443,
                     "totalVotes": 316896.14455328055,
                     "active": true,
                     "end": 1701302400,
@@ -9519,7 +9519,7 @@
                         "decimals": 18,
                         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x6b175474e89094c44da98b954eedeac495271d0f.png",
-                        "price": 0.99924
+                        "price": 0.999137
                     },
                     "numberOfPeriods": 7,
                     "maxRewardPerVote": 0.00285,
@@ -9549,15 +9549,15 @@
                         "hex": "0x03fc90c048a240f14e82e8"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2505.578917138655,
-                    "maxRewardPerVoteUSD": 0.00279087732,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2505.320646224295,
+                    "maxRewardPerVoteUSD": 0.0027905896410000005,
                     "gaugeName": "Temple FRAX/TEMPLE",
                     "rewardsAvailable": 6367.174150651528,
-                    "rewardsAvailableUSD": 6362.335098297033,
-                    "totalRewardAmountUSD": 34973.4,
+                    "rewardsAvailableUSD": 6361.679279359516,
+                    "totalRewardAmountUSD": 34969.795,
                     "tokenPerVoteValue": 0.0012947095503062253,
-                    "rewardPerVoteValue": 0.0012937255710479927,
-                    "apr": 0.04433194708039251,
+                    "rewardPerVoteValue": 0.001293592215964311,
+                    "apr": 0.0444005249043856,
                     "totalVotes": 4819483.999176306,
                     "active": true,
                     "end": 1698883200,
@@ -9580,7 +9580,7 @@
                         "decimals": 18,
                         "address": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x579cea1889991f68acc35ff5c3dd0621ff29b0c9.png",
-                        "price": 0.00504679
+                        "price": 0.00504907
                     },
                     "numberOfPeriods": 5,
                     "maxRewardPerVote": 0.75,
@@ -9610,15 +9610,15 @@
                         "hex": "0x019ba53289e5d7c4d5b468"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 593.5429682392287,
-                    "maxRewardPerVoteUSD": 0.00370939065,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 593.8111145198518,
+                    "maxRewardPerVoteUSD": 0.00371106645,
                     "gaugeName": "Fraxswap V2 FRAX/IQ",
                     "rewardsAvailable": 144458.6019714826,
-                    "rewardsAvailableUSD": 729.0522278436587,
-                    "totalRewardAmountUSD": 3028.074,
+                    "rewardsAvailableUSD": 729.3815934561536,
+                    "totalRewardAmountUSD": 3029.442,
                     "tokenPerVoteValue": 0.07282606600930015,
-                    "rewardPerVoteValue": 0.0003675378616750759,
-                    "apr": 0.012594378126592387,
+                    "rewardPerVoteValue": 0.0003677039051055771,
+                    "apr": 0.012620860109234331,
                     "totalVotes": 1943939.978926075,
                     "active": true,
                     "end": 1699488000,
@@ -9641,7 +9641,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 4e-07,
@@ -9671,14 +9671,14 @@
                         "hex": "0x040a336bbde6d25c3868e8"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7223.35436471242,
-                    "maxRewardPerVoteUSD": 2.37944e-06,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7211.4542751494655,
+                    "maxRewardPerVoteUSD": 2.3755199999999997e-06,
                     "gaugeName": "Convex stkcvxFRAXBP",
                     "rewardsAvailable": 1190.5016411553033,
-                    "rewardsAvailableUSD": 7226.3449618126915,
-                    "totalRewardAmountUSD": 21682.04,
+                    "rewardsAvailableUSD": 7214.439945401138,
+                    "totalRewardAmountUSD": 21646.32,
                     "tokenPerVoteValue": 3.9199999999999996e-07,
-                    "rewardPerVoteValue": 2.37944e-06,
+                    "rewardPerVoteValue": 2.3755199999999997e-06,
                     "apr": 8.153599999999999e-05,
                     "totalVotes": 4883875.490850097,
                     "active": true,
@@ -9702,7 +9702,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 4e-07,
@@ -9744,14 +9744,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 11120.720539828933,
-                    "maxRewardPerVoteUSD": 2.37944e-06,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 11102.399748165293,
+                    "maxRewardPerVoteUSD": 2.3755199999999997e-06,
                     "gaugeName": "Convex stkcvxfrxETHETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 11126.310000000001,
+                    "totalRewardAmountUSD": 11107.98,
                     "tokenPerVoteValue": 3.9199999999999996e-07,
-                    "rewardPerVoteValue": 2.37944e-06,
+                    "rewardPerVoteValue": 2.3755199999999997e-06,
                     "apr": 0,
                     "totalVotes": 6723524.250994896,
                     "active": true,
@@ -9775,7 +9775,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0006386,
@@ -9817,14 +9817,14 @@
                             "weight": 4278361.461179702
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1825.9603149078534,
-                    "maxRewardPerVoteUSD": 0.0037987759600000004,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1822.9521430546279,
+                    "maxRewardPerVoteUSD": 0.0037925176799999995,
                     "gaugeName": "Convex stkcvxfrxETHWETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 11120.24,
-                    "tokenPerVoteValue": 0.00048308078834504424,
-                    "rewardPerVoteValue": 0.0029323003852544187,
+                    "totalRewardAmountUSD": 11101.92,
+                    "tokenPerVoteValue": 0.0004830807883450442,
+                    "rewardPerVoteValue": 0.0029274695773709677,
                     "apr": 0,
                     "totalVotes": 2673333.449006449,
                     "active": true,
@@ -9848,7 +9848,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0006375,
@@ -9885,14 +9885,14 @@
                             "weight": 658650.0241441308
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2799.531504851426,
-                    "maxRewardPerVoteUSD": 0.0037922325000000006,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2794.919426589726,
+                    "maxRewardPerVoteUSD": 0.003785985,
                     "gaugeName": "Convex stkcvxfrxETHstETH",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 5560.12,
-                    "tokenPerVoteValue": 0.0006247500000000001,
-                    "rewardPerVoteValue": 0.0037922325000000006,
+                    "totalRewardAmountUSD": 5550.96,
+                    "tokenPerVoteValue": 0.00062475,
+                    "rewardPerVoteValue": 0.003785985,
                     "apr": 0,
                     "totalVotes": 685990.749125407,
                     "active": true,
@@ -9916,7 +9916,7 @@
                         "decimals": 18,
                         "address": "0x402F878BDd1f5C66FdAF0fabaBcF74741B68ac36",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x402f878bdd1f5c66fdaf0fababcf74741b68ac36.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.0004,
@@ -9953,14 +9953,14 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1517.5,
-                    "maxRewardPerVoteUSD": 0.00237944,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1515,
+                    "maxRewardPerVoteUSD": 0.00237552,
                     "gaugeName": "Convex stkcvxtriSDT",
                     "rewardsAvailable": 250,
-                    "rewardsAvailableUSD": 1517.5,
-                    "totalRewardAmountUSD": 6070,
+                    "rewardsAvailableUSD": 1515,
+                    "totalRewardAmountUSD": 6060,
                     "tokenPerVoteValue": 0.000392,
-                    "rewardPerVoteValue": 0.00237944,
+                    "rewardPerVoteValue": 0.00237552,
                     "apr": 0.081536,
                     "totalVotes": 26644.10520951,
                     "active": true,
@@ -9984,7 +9984,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.000621,
@@ -10014,14 +10014,14 @@
                         "hex": "0x069f8eef3dbc92ce7c68"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6.07,
-                    "maxRewardPerVoteUSD": 0.0036940806000000004,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6.06,
+                    "maxRewardPerVoteUSD": 0.0036879948,
                     "gaugeName": "Aave aFRAX",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 6.07,
+                    "totalRewardAmountUSD": 6.06,
                     "tokenPerVoteValue": 1.566646417495284e-05,
-                    "rewardPerVoteValue": 9.509543754196374e-05,
+                    "rewardPerVoteValue": 9.493877290021421e-05,
                     "apr": 0,
                     "totalVotes": 31277.530723690637,
                     "active": false,
@@ -10045,7 +10045,7 @@
                         "decimals": 18,
                         "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png",
-                        "price": 6.07
+                        "price": 6.06
                     },
                     "numberOfPeriods": 2,
                     "maxRewardPerVote": 0.0006225,
@@ -10075,14 +10075,14 @@
                         "hex": "0x069f8eef3dbc92ce7c68"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.6070000000000001,
-                    "maxRewardPerVoteUSD": 0.0037030035,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 0.606,
+                    "maxRewardPerVoteUSD": 0.0036969029999999996,
                     "gaugeName": "Aave aFRAX",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 0.6070000000000001,
+                    "totalRewardAmountUSD": 0.606,
                     "tokenPerVoteValue": 1.566646417495284e-06,
-                    "rewardPerVoteValue": 9.509543754196375e-06,
+                    "rewardPerVoteValue": 9.493877290021421e-06,
                     "apr": 0,
                     "totalVotes": 31277.530723690637,
                     "active": false,
