@@ -1,23 +1,23 @@
 {
-    "lastUpdate": 1698778584,
+    "lastUpdate": 1698779551,
     "bounties": [
         {
             "proposal": "0xdacd99029b4b94cd04fe364aac370829621c1c64",
             "proposalHash": "0xec52cbefcd016de817b6a76fed1d5dbe2ccb52c87b1f81c735f7834d38253356",
             "title": "(O) WETH rETH",
             "proposalDeadline": 1698883200,
-            "totalValue": 2147.8284000000003,
-            "maxTotalValue": 4295.656800000001,
+            "totalValue": 2146.905,
+            "maxTotalValue": 4293.81,
             "voteCount": 59690.64015632688,
-            "valuePerVote": 0.035982449615519926,
-            "maxValuePerVote": 0.07196489923103985,
+            "valuePerVote": 0.03596697994672563,
+            "maxValuePerVote": 0.07193395989345126,
             "bribes": [
                 {
                     "token": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
                     "symbol": "rpl",
                     "decimals": 18,
-                    "value": 4295.656800000001,
-                    "maxValue": 4295.656800000001,
+                    "value": 4293.81,
+                    "maxValue": 4293.81,
                     "amount": 184.68,
                     "maxTokensPerVote": 0,
                     "briber": "0xb867ea3bbc909954d737019fef5ab25dfdb38cb9",
@@ -28,7 +28,7 @@
             ],
             "poolId": "0x4fd63966879300cafafbb35d157dc5229278ed2300020000000000000000002b",
             "totalReward": 184.68,
-            "apr": 0.17853887213807595,
+            "apr": 0.17795270763365678,
             "totalVotes": 59690.64015632688
         },
         {
@@ -36,18 +36,18 @@
             "proposalHash": "0xb355f196c7ab330d85a3a392623204f81c8f2d668baaeda4e78f87c9f50bef04",
             "title": "WETH-50% AURA-50%",
             "proposalDeadline": 1698883200,
-            "totalValue": 3670.06875,
-            "maxTotalValue": 7340.1375,
+            "totalValue": 3678.7425000000003,
+            "maxTotalValue": 7357.485000000001,
             "voteCount": 165991.22031861977,
-            "valuePerVote": 0.020552385000000003,
-            "maxValuePerVote": 0.044219826859125747,
+            "valuePerVote": 0.020600958000000003,
+            "maxValuePerVote": 0.044324334907706396,
             "bribes": [
                 {
                     "token": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
                     "symbol": "aura",
                     "decimals": 18,
-                    "value": 7340.1375,
-                    "maxValue": 7340.1375,
+                    "value": 7357.485000000001,
+                    "maxValue": 7357.485000000001,
                     "amount": 7500,
                     "maxTokensPerVote": 0.042,
                     "briber": "0x21aed3a7a1c34cd88b8a39dbdae042befbf947ff",
@@ -58,7 +58,7 @@
             ],
             "poolId": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9000200000000000000000274",
             "totalReward": 7500,
-            "apr": 0.10197748282442749,
+            "apr": 0.10192671893434824,
             "totalVotes": 165991.22031861977
         },
         {
@@ -66,18 +66,18 @@
             "proposalHash": "0xa2b574c32fbe12ce1e12ebb850253595ef7087671c213241076b924614822a20",
             "title": "B-80BAL-20WETH auraBAL",
             "proposalDeadline": 1698883200,
-            "totalValue": 4893.425,
-            "maxTotalValue": 9786.85,
+            "totalValue": 4904.99,
+            "maxTotalValue": 9809.98,
             "voteCount": 249433.5633848822,
-            "valuePerVote": 0.0196181154132957,
-            "maxValuePerVote": 0.0392362308265914,
+            "valuePerVote": 0.019664480383588444,
+            "maxValuePerVote": 0.03932896076717689,
             "bribes": [
                 {
                     "token": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
                     "symbol": "aura",
                     "decimals": 18,
-                    "value": 9786.85,
-                    "maxValue": 9786.85,
+                    "value": 9809.98,
+                    "maxValue": 9809.98,
                     "amount": 10000,
                     "maxTokensPerVote": 0.042,
                     "briber": "0x21aed3a7a1c34cd88b8a39dbdae042befbf947ff",
@@ -88,7 +88,7 @@
             ],
             "poolId": "0x3dd0843a028c86e0b760b1a76929d1c5ef93a2dd000200000000000000000249",
             "totalReward": 10000,
-            "apr": 0.09734179403543669,
+            "apr": 0.09729333776846805,
             "totalVotes": 249433.5633848822
         },
         {
@@ -118,7 +118,7 @@
             ],
             "poolId": "0x32df62dc3aed2cd6224193052ce665dc181658410002000000000000000003bd",
             "totalReward": 2963.08,
-            "apr": 0.09574351145038167,
+            "apr": 0.09547021883920076,
             "totalVotes": 76777.90113587554
         },
         {
@@ -148,7 +148,7 @@
             ],
             "poolId": "0xfb4c2e6e6e27b5b4a07a36360c89ede29bb3c9b6000000000000000000000026",
             "totalReward": 598.295,
-            "apr": 0.23452595419847327,
+            "apr": 0.23385651760228357,
             "totalVotes": 6328.351745462723
         },
         {
@@ -156,18 +156,18 @@
             "proposalHash": "0x141872391b371d834979669a2f6ab67381c163cbfe3b3293bb41bb83f99a9da0",
             "title": "rETH-50% RPL-50%",
             "proposalDeadline": 1698883200,
-            "totalValue": 1655.4142000000002,
-            "maxTotalValue": 3310.8284000000003,
+            "totalValue": 1654.7025,
+            "maxTotalValue": 3309.405,
             "voteCount": 25417.384534336707,
-            "valuePerVote": 0.0651276339601857,
-            "maxValuePerVote": 0.1302552679203714,
+            "valuePerVote": 0.06509963411755448,
+            "maxValuePerVote": 0.13019926823510897,
             "bribes": [
                 {
                     "token": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
                     "symbol": "rpl",
                     "decimals": 18,
-                    "value": 3310.8284000000003,
-                    "maxValue": 3310.8284000000003,
+                    "value": 3309.405,
+                    "maxValue": 3309.405,
                     "amount": 142.34,
                     "maxTokensPerVote": 0,
                     "briber": "0xb867ea3bbc909954d737019fef5ab25dfdb38cb9",
@@ -178,7 +178,7 @@
             ],
             "poolId": "0x9f9d900462492d4c21e9523ca95a7cd86142f298000200000000000000000462",
             "totalReward": 142.34,
-            "apr": 0.32315238224519616,
+            "apr": 0.3220914342638281,
             "totalVotes": 25417.384534336707
         },
         {
@@ -208,7 +208,7 @@
             ],
             "poolId": "0x726e324c29a1e49309672b244bdc4ff62a270407000200000000000000000702",
             "totalReward": 800,
-            "apr": 0.2702139312977099,
+            "apr": 0.26944262607040914,
             "totalVotes": 7344.658871888433
         },
         {
@@ -238,7 +238,7 @@
             ],
             "poolId": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
             "totalReward": 5748.225,
-            "apr": 0.042354198473282444,
+            "apr": 0.04223330161750714,
             "totalVotes": 336697.02213710017
         },
         {
@@ -268,7 +268,7 @@
             ],
             "poolId": "0x4a2f6ae7f3e5d715689530873ec35593dc28951b000000000000000000000481",
             "totalReward": 1110.43,
-            "apr": 0.053389312977099236,
+            "apr": 0.05323691722169363,
             "totalVotes": 51598.10560413765
         },
         {
@@ -298,7 +298,7 @@
             ],
             "poolId": "0xf0ad209e2e969eaaa8c882aac71f02d8a047d5c2000200000000000000000b49",
             "totalReward": 1292.33,
-            "apr": 0.029190458015267175,
+            "apr": 0.02910713606089439,
             "totalVotes": 109831.62284851195
         },
         {
@@ -341,7 +341,7 @@
             ],
             "poolId": "0x1ee442b5326009bb18f2f472d3e0061513d1a0ff000200000000000000000464",
             "totalReward": 6471.08,
-            "apr": 0.16309736508124303,
+            "apr": 0.16263181598966953,
             "totalVotes": 227119.791312457
         },
         {
@@ -371,7 +371,7 @@
             ],
             "poolId": "0x52b69d6b3eb0bd6b2b4a48a316dfb0e1460e67e40002000000000000000005f3",
             "totalReward": 282.015,
-            "apr": 0.008271374045801529,
+            "apr": 0.008247764034253093,
             "totalVotes": 84581.52247398203
         },
         {
@@ -401,7 +401,7 @@
             ],
             "poolId": "0xcd78a20c597e367a4e478a2411ceb790604d7c8f000000000000000000000c22",
             "totalReward": 902.49,
-            "apr": 0.4738624045801527,
+            "apr": 0.472509800190295,
             "totalVotes": 4724.028326230788
         },
         {
@@ -431,7 +431,7 @@
             ],
             "poolId": "0xee278d943584dd8640eaf4cc6c7a5c80c0073e85000200000000000000000bc7",
             "totalReward": 380.55,
-            "apr": 0.16111068702290077,
+            "apr": 0.16065080875356802,
             "totalVotes": 5859.903096014986
         },
         {
@@ -461,7 +461,7 @@
             ],
             "poolId": "0x36be1e97ea98ab43b4debf92742517266f5731a3000200000000000000000466",
             "totalReward": 587.77,
-            "apr": 0.2760167938931297,
+            "apr": 0.2752289248334919,
             "totalVotes": 5282.006613842228
         },
         {
@@ -491,7 +491,7 @@
             ],
             "poolId": "0xdfe6e7e18f6cc65fa13c8d8966013d4fda74b6ba000000000000000000000558",
             "totalReward": 1692.175,
-            "apr": 0.06286393129770992,
+            "apr": 0.06268449096098955,
             "totalVotes": 66779.01313163874
         },
         {
@@ -521,7 +521,7 @@
             ],
             "poolId": "0xc13546b97b9b1b15372368dc06529d7191081f5b00000000000000000000001d",
             "totalReward": 423.76,
-            "apr": 0.10454580152671754,
+            "apr": 0.10424738344433872,
             "totalVotes": 10055.540370654566
         },
         {
@@ -551,7 +551,7 @@
             ],
             "poolId": "0x42ed016f826165c2e5976fe5bc3df540c5ad0af700000000000000000000058b",
             "totalReward": 5509.17,
-            "apr": 0.061799618320610684,
+            "apr": 0.06162321598477641,
             "totalVotes": 221156.43593881602
         },
         {
@@ -581,7 +581,7 @@
             ],
             "poolId": "0xbad20c15a773bf03ab973302f61fabcea5101f0a000000000000000000000034",
             "totalReward": 1165.18,
-            "apr": 0.041925,
+            "apr": 0.04180532825880115,
             "totalVotes": 68945.7189847016
         },
         {
@@ -589,11 +589,11 @@
             "proposalHash": "0xc20113e699a8cc094b01a28cda05f42e052b32fb52da0e75677696fa53f414d5",
             "title": "(B) WETH rETH",
             "proposalDeadline": 1698883200,
-            "totalValue": 1015.2456000000002,
-            "maxTotalValue": 2030.4912000000004,
+            "totalValue": 1014.87625,
+            "maxTotalValue": 2029.7525,
             "voteCount": 14840.884456698357,
-            "valuePerVote": 0.06840798062799001,
-            "maxValuePerVote": 0.13681596125598003,
+            "valuePerVote": 0.06838309349100463,
+            "maxValuePerVote": 0.13676618698200926,
             "bribes": [
                 {
                     "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -612,8 +612,8 @@
                     "token": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
                     "symbol": "rpl",
                     "decimals": 18,
-                    "value": 1718.2162000000003,
-                    "maxValue": 1718.2162000000003,
+                    "value": 1717.4775000000002,
+                    "maxValue": 1717.4775000000002,
                     "amount": 73.87,
                     "maxTokensPerVote": 0,
                     "briber": "0xb867ea3bbc909954d737019fef5ab25dfdb38cb9",
@@ -624,7 +624,7 @@
             ],
             "poolId": "0xc771c1a5905420daec317b154eb13e4198ba97d0000000000000000000000023",
             "totalReward": 386.145,
-            "apr": 0.33942891151292753,
+            "apr": 0.33833690404683553,
             "totalVotes": 14840.884456698357
         },
         {
@@ -654,7 +654,7 @@
             ],
             "poolId": "0xb08885e6026bab4333a80024ec25a1a3e1ff2b8a000200000000000000000445",
             "totalReward": 527.295,
-            "apr": 0.04001469465648855,
+            "apr": 0.039900475737392964,
             "totalVotes": 32690.76822251022
         },
         {
@@ -684,7 +684,7 @@
             ],
             "poolId": "0x9791d590788598535278552eecd4b211bfc790cb000000000000000000000498",
             "totalReward": 491.755,
-            "apr": 0.08548740458015266,
+            "apr": 0.08524338725023789,
             "totalVotes": 14270.924804426118
         },
         {
@@ -714,7 +714,7 @@
             ],
             "poolId": "0x3fd4954a851ead144c2ff72b1f5a38ea5976bd54000000000000000000000480",
             "totalReward": 508.9,
-            "apr": 0.05116641221374045,
+            "apr": 0.05102036156041865,
             "totalVotes": 24674.33993869774
         },
         {
@@ -744,7 +744,7 @@
             ],
             "poolId": "0x8353157092ed8be69a9df8f95af097bbf33cb2af0000000000000000000005d9",
             "totalReward": 626.465,
-            "apr": 0.008725381679389313,
+            "apr": 0.00870047573739296,
             "totalVotes": 178081.2556452437
         },
         {
@@ -774,7 +774,7 @@
             ],
             "poolId": "0x3ff3a210e57cfe679d9ad1e9ba6453a716c56a2e0002000000000000000005d5",
             "totalReward": 896.445,
-            "apr": 0.471686641221374,
+            "apr": 0.47034024738344427,
             "totalVotes": 4714.288198792034
         },
         {
@@ -804,7 +804,7 @@
             ],
             "poolId": "0xf16aee6a71af1a9bc8f56975a4c2705ca7a782bc0002000000000000000004bb",
             "totalReward": 894.825,
-            "apr": 0.014838358778625955,
+            "apr": 0.014796003805899148,
             "totalVotes": 149602.11663076162
         },
         {
@@ -834,7 +834,7 @@
             ],
             "poolId": "0x93d199263632a4ef4bb438f1feb99e57b4b5f0bd0000000000000000000005c2",
             "totalReward": 5728.59,
-            "apr": 0.1353513358778626,
+            "apr": 0.1349649857278782,
             "totalVotes": 105000.68331509574
         },
         {
@@ -864,7 +864,7 @@
             ],
             "poolId": "0xe7e2c68d3b13d905bbb636709cf4dfd21076b9d20000000000000000000005ca",
             "totalReward": 810.035,
-            "apr": 0.08950152671755723,
+            "apr": 0.08924605137963842,
             "totalVotes": 22452.040251041864
         },
         {
@@ -894,7 +894,7 @@
             ],
             "poolId": "0x37b18b10ce5635a84834b26095a0ae5639dcb7520000000000000000000005cb",
             "totalReward": 908.9,
-            "apr": 0.36676870229007624,
+            "apr": 0.36572178877259753,
             "totalVotes": 6147.557326200351
         },
         {
@@ -902,11 +902,11 @@
             "proposalHash": "0x8fa8199f3926a4e1048eab281d39fcf042c5feea80597755519f20c4fddab3fe",
             "title": "(A) WETH rETH",
             "proposalDeadline": 1698883200,
-            "totalValue": 2336.8084000000003,
-            "maxTotalValue": 4673.616800000001,
+            "totalValue": 2335.885,
+            "maxTotalValue": 4671.77,
             "voteCount": 50623.94277375672,
-            "valuePerVote": 0.04616007806573957,
-            "maxValuePerVote": 0.09232015613147913,
+            "valuePerVote": 0.04614183770543615,
+            "maxValuePerVote": 0.0922836754108723,
             "bribes": [
                 {
                     "token": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -925,8 +925,8 @@
                     "token": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
                     "symbol": "rpl",
                     "decimals": 18,
-                    "value": 4295.656800000001,
-                    "maxValue": 4295.656800000001,
+                    "value": 4293.81,
+                    "maxValue": 4293.81,
                     "amount": 184.68,
                     "maxTokensPerVote": 0,
                     "briber": "0xb867ea3bbc909954d737019fef5ab25dfdb38cb9",
@@ -937,7 +937,7 @@
             ],
             "poolId": "0xade4a71bb62bec25154cfc7e6ff49a513b491e81000000000000000000000497",
             "totalReward": 562.64,
-            "apr": 0.22903855528802075,
+            "apr": 0.22829453479378498,
             "totalVotes": 50623.94277375672
         },
         {
@@ -967,7 +967,7 @@
             ],
             "poolId": "0xf01b0684c98cd7ada480bfdf6e43876422fa1fc10002000000000000000005de",
             "totalReward": 893.455,
-            "apr": 0.02109770992366412,
+            "apr": 0.021037488106565173,
             "totalVotes": 105058.96063411915
         },
         {
@@ -997,7 +997,7 @@
             ],
             "poolId": "0xf7a826d47c8e02835d94fb0aa40f0cc9505cb1340002000000000000000005e0",
             "totalReward": 675.195,
-            "apr": 0.015942366412213742,
+            "apr": 0.015896860133206472,
             "totalVotes": 105058.96063411915
         },
         {
@@ -1027,7 +1027,7 @@
             ],
             "poolId": "0xfd2620c9cfcec7d152467633b3b0ca338d3d78cc00000000000000000000001c",
             "totalReward": 536.63,
-            "apr": 0.13233702290076338,
+            "apr": 0.1319592768791627,
             "totalVotes": 10059.67116135896
         },
         {
@@ -1035,18 +1035,18 @@
             "proposalHash": "0x6c4809f7a6731938655cc8b083eb558af3aed482e5b71fe81cedc29c8bcf3e47",
             "title": "(Z) WETH rETH",
             "proposalDeadline": 1698883200,
-            "totalValue": 1073.9142000000002,
-            "maxTotalValue": 2147.8284000000003,
+            "totalValue": 1073.4525,
+            "maxTotalValue": 2146.905,
             "voteCount": 15623.683532917592,
-            "valuePerVote": 0.06873490783410138,
-            "maxValuePerVote": 0.13746981566820277,
+            "valuePerVote": 0.06870535714285714,
+            "maxValuePerVote": 0.13741071428571427,
             "bribes": [
                 {
                     "token": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
                     "symbol": "rpl",
                     "decimals": 18,
-                    "value": 2147.8284000000003,
-                    "maxValue": 2147.8284000000003,
+                    "value": 2146.905,
+                    "maxValue": 2146.905,
                     "amount": 92.34,
                     "maxTokensPerVote": 0,
                     "briber": "0xb867ea3bbc909954d737019fef5ab25dfdb38cb9",
@@ -1057,7 +1057,7 @@
             ],
             "poolId": "0x1d0a8a31cdb04efac3153237526fb15cc65a252000000000000000000000000f",
             "totalReward": 92.34,
-            "apr": 0.34105106940584645,
+            "apr": 0.33993135789044443,
             "totalVotes": 15623.683532917592
         }
     ]
