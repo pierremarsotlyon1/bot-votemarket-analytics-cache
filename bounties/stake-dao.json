@@ -1,5 +1,5 @@
 {
-    "lastUpdate": 1699019767,
+    "lastUpdate": 1699033779,
     "bounties": [
         {
             "key": "crv",
@@ -394,7 +394,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 24128.20131738068,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 10176.102657477904,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [],
@@ -409,7 +409,7 @@
                         "hex": "0x056ee327954f93dbcb8e00"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 12339.041512701895,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5204.0080185209135,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "poly-CRV+crvUSDBTCETH ",
                     "rewardsAvailable": 35464.155838418286,
@@ -548,7 +548,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 1144.8642838216688,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 1060.184732980973,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -580,7 +580,7 @@
                             "weight": 559707.6897429838
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 324.5289542135094,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 300.52526533445155,
                     "maxRewardPerVoteUSD": 0.004479200544,
                     "gaugeName": "ETH+rETH ",
                     "rewardsAvailable": 2617.7249783092825,
@@ -830,7 +830,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 168.87504578624868,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 167.4647329908842,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -857,7 +857,7 @@
                             "weight": 2959305.551087904
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2318.6543786451944,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2299.29078396484,
                     "maxRewardPerVoteUSD": 0.0060104448000000005,
                     "gaugeName": "alUSD+FRAXBP ",
                     "rewardsAvailable": 531.9185836952022,
@@ -888,7 +888,7 @@
                         "decimals": 18,
                         "address": "0x85b6ACaBa696B9E4247175274F8263F99b4B9180",
                         "image": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets/0x85b6acaba696b9e4247175274f8263f99b4b9180.png",
-                        "price": 2.3199923556457054
+                        "price": 2.3042071702224893
                     },
                     "numberOfPeriods": 4,
                     "maxRewardPerVote": 0.0013,
@@ -918,14 +918,14 @@
                         "hex": "0x3c9d6b9e5287083a7800"
                     },
                     "weightPerBlacklists": [],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6.927482762966544,
-                    "maxRewardPerVoteUSD": 0.00289535045984584,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6.880348297344942,
+                    "maxRewardPerVoteUSD": 0.0028756505484376664,
                     "gaugeName": "COIL+FRAXBP ",
                     "rewardsAvailable": 0,
                     "rewardsAvailableUSD": 0,
-                    "totalRewardAmountUSD": 118790.56858612705,
+                    "totalRewardAmountUSD": 117982.31973690212,
                     "tokenPerVoteValue": 0.0012479999999999998,
-                    "rewardPerVoteValue": 0.00289535045984584,
+                    "rewardPerVoteValue": 0.0028756505484376664,
                     "apr": 0,
                     "totalVotes": 286245.8825180994,
                     "active": false,
@@ -1236,7 +1236,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 39689.04511481694,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 3946.5375283670137,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -1303,7 +1303,7 @@
                             "weight": 185365.42945725605
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 20296.77922649181,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2018.239559319249,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "USDC+WBTC+WETH ",
                     "rewardsAvailable": 63856.33049727293,
@@ -1349,7 +1349,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 38915.892616009965,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 2753.757016910965,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -1416,7 +1416,7 @@
                             "weight": 185365.42945725605
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 19901.392904364417,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1408.257569663183,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "USDT+WBTC+WETH ",
                     "rewardsAvailable": 63146.82248646202,
@@ -1462,7 +1462,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 13145.617425674012,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 4762.31388304964,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -1534,7 +1534,7 @@
                             "weight": 532041.018432549
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 6722.603023402562,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2435.4235082221708,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "USDT+crvUSD ",
                     "rewardsAvailable": 40167.79851486955,
@@ -2042,7 +2042,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 19964.119862075397,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 4132.620135071261,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -2189,7 +2189,7 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 10209.551076866048,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2113.4012739747677,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "USDC+crvUSD ",
                     "rewardsAvailable": 40775.81853407119,
@@ -3395,7 +3395,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 40983.94080399048,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 10872.185473167941,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -3434,7 +3434,7 @@
                     "rewardTokenDecimals": 18,
                     "gaugeWeight": {
                         "type": "BigNumber",
-                        "hex": "0x13f5dd97e93ca5cad4aa20"
+                        "hex": "0x1432087e9bbc472f8d8920"
                     },
                     "weightPerBlacklists": [
                         {
@@ -3542,16 +3542,16 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 20958.982407456715,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 5559.9812900507195,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "crvUSD+WETH+CRV ",
                     "rewardsAvailable": 100417.2454104999,
                     "rewardsAvailableUSD": 51352.8772167026,
                     "totalRewardAmountUSD": 767092.5000000001,
-                    "tokenPerVoteValue": 0.003994941024570482,
-                    "rewardPerVoteValue": 0.002042992865260222,
-                    "apr": 0.2077369332776651,
-                    "totalVotes": 24130658.03776836,
+                    "tokenPerVoteValue": 0.003948448937944212,
+                    "rewardPerVoteValue": 0.0020192170446199807,
+                    "apr": 0.20531934477309904,
+                    "totalVotes": 24414791.41348114,
                     "active": true,
                     "end": 1700092800,
                     "start": 1691020800,
@@ -4125,7 +4125,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 2906.223955294511,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 682.8212900131274,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -4147,7 +4147,7 @@
                             "weight": 21105170.48034721
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 17669.841648190628,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 4151.553443279815,
                     "maxRewardPerVoteUSD": 0.0028600319999999998,
                     "gaugeName": "FRAX+USDC ",
                     "rewardsAvailable": 3232.740442897957,
@@ -4606,7 +4606,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 21583.10018646213,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 1588.304156338758,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -4753,7 +4753,7 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 11037.4895198558,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 812.2508040308593,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "crvUSD+tBTC+wstETH ",
                     "rewardsAvailable": 30699.239404894764,
@@ -5132,7 +5132,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 1223.0403791027186,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 224.0320558452183,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -5154,7 +5154,7 @@
                             "weight": 6244133.278209233
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 7436.085504944529,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 1362.1148995389274,
                     "maxRewardPerVoteUSD": 0.0037939199999999997,
                     "gaugeName": "ETH+frxETH ",
                     "rewardsAvailable": 3964.668833929429,
@@ -5336,7 +5336,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 31629.71282564242,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 5750.652138851008,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -5483,7 +5483,7 @@
                             "weight": 0
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 16175.276990469407,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 2940.854750547712,
                     "maxRewardPerVoteUSD": 0.009818784,
                     "gaugeName": "ETH+stETH ",
                     "rewardsAvailable": 42758.56587793752,
@@ -5858,7 +5858,7 @@
                     "closed": false,
                     "updated": false,
                     "upgradable": true,
-                    "totalRewardsAvailableToClaimCurrentPeriod": 3690749.9484565123,
+                    "totalRewardsAvailableToClaimCurrentPeriod": 138661.12230834944,
                     "ts": 0,
                     "bribeContract": "0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c",
                     "blacklistedAddresses": [
@@ -5880,7 +5880,7 @@
                             "weight": 3871362.6324897246
                         }
                     ],
-                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 16639.78305011567,
+                    "totalRewardsAvailableToClaimCurrentPeriodUSD": 625.1550565384166,
                     "maxRewardPerVoteUSD": 0.00367894416,
                     "gaugeName": "ETH+OETH ",
                     "rewardsAvailable": 5003366.11349007,
